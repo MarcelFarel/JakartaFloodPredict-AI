@@ -108,7 +108,7 @@ with col_in1:
     elif kondisi_hujan == "Gerimis / Hujan Ringan": input_rain = 20.0
     elif kondisi_hujan == "Hujan Sedang": input_rain = 50.0
     elif kondisi_hujan == "Hujan Deras": input_rain = 150.0
-    else: input_rain = 350.0 
+    else: input_rain = 300.0 
     
     st.caption(f"Input Model: {input_rain} mm")
 
