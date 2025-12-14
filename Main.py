@@ -6,16 +6,13 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
-# --- Konfigurasi Halaman ---
 st.set_page_config(page_title="JakartaFloodPredict", layout="centered")
 
-# --- JUDUL & BRANDING ---
-st.title("🌊 JakartaFloodPredict")
+st.title("JakartaFloodPredict")
 st.markdown("""
 **Sistem Deteksi Dini & Prediksi Risiko Banjir** *Powered by JakartaFloodPredict Model (Multiple Linear Regression)*
 """)
 
-# --- 1. Persiapan Data & Training Model ---
 @st.cache_data
 def load_data_and_train_model():
     try:
@@ -53,28 +50,22 @@ if model is None:
     st.error("ERROR FATAL: File 'dataset_nov25.csv' tidak ditemukan.")
     st.stop()
 
-# --- 2. Logika Prediksi ---
 def predict_flood_status(rain_input, duration_input):
     
-    # Logic Gate: Jika input 0, maka hasil pasti 0 (Aman)
     if rain_input <= 0 or duration_input <= 0:
         return 0.0, 0.0, "AMAN", "green", "Cuaca normal. Tidak ada risiko banjir."
 
     input_data = np.array([[rain_input, duration_input]])
     predicted_level_cm = model.predict(input_data)[0]
     
-    # Cegah nilai minus
     if predicted_level_cm < 0: predicted_level_cm = 0.0
     
-    # Konversi ke Persentase (Kapasitas 100cm)
     kapasitas_max = 100 
     risk_percentage = (predicted_level_cm / kapasitas_max) * 100
-    
-    # Capping 0-100%
+
     if risk_percentage > 100: risk_percentage = 100
     if risk_percentage < 0: risk_percentage = 0
 
-    # Status
     if risk_percentage > 70:
         status = "DARURAT (Banjir Besar)"
         color = "red"
@@ -90,7 +81,6 @@ def predict_flood_status(rain_input, duration_input):
 
     return predicted_level_cm, risk_percentage, status, color, action
 
-# --- 3. Panel Input (User Friendly) ---
 st.divider()
 st.subheader("Panel Input Simulasi")
 st.info("Masukkan parameter cuaca untuk menjalankan model **JakartaFloodPredict**:")
@@ -111,7 +101,6 @@ with col_in1:
         index=2
     )
     
-    # Mapping Input
     if kondisi_hujan == "Tidak Hujan / Mendung": input_rain = 0.0
     elif kondisi_hujan == "Gerimis / Hujan Ringan": input_rain = 20.0
     elif kondisi_hujan == "Hujan Sedang": input_rain = 50.0
@@ -132,7 +121,6 @@ with col_in2:
     if jam > 0: st.caption(f"Durasi: {jam} Jam {menit} Menit")
     else: st.caption(f"Durasi: {menit} Menit")
 
-# --- 4. Eksekusi & Output ---
 if st.button("Jalankan Prediksi", type="primary"):
     
     pred_level, risk_pct, status, color, action = predict_flood_status(input_rain, input_dur)
@@ -150,7 +138,6 @@ if st.button("Jalankan Prediksi", type="primary"):
         st.write("") 
         st.info(f"{action}")
 
-    # Grafik Risiko
     st.subheader("Visualisasi Risiko")
     fig_chart = go.Figure()
     fig_chart.add_trace(go.Bar(
@@ -167,12 +154,9 @@ if st.button("Jalankan Prediksi", type="primary"):
     )
     st.plotly_chart(fig_chart, use_container_width=True)
 
-# --- 5. Evaluasi Model (DENGAN GRAFIK SCATTER PLOT) ---
-with st.expander("📊 Lihat Detail Evaluasi Akurasi Model"):
-    # Hitung Prediksi pada Data Testing
+with st.expander("Detail Evaluasi Akurasi Model"):
     y_pred_eval = model.predict(X_test)
     
-    # Hitung Metrik
     mae = mean_absolute_error(y_test, y_pred_eval)
     rmse = np.sqrt(mean_squared_error(y_test, y_pred_eval))
     r2 = r2_score(y_test, y_pred_eval)
@@ -188,10 +172,8 @@ with st.expander("📊 Lihat Detail Evaluasi Akurasi Model"):
     st.markdown("### 2. Grafik Sebaran Prediksi (Actual vs Predicted)")
     st.write("Grafik ini menunjukkan seberapa dekat prediksi model (Titik Biru) dengan kenyataan. Jika titik-titik menempel pada **Garis Merah Putus-putus**, berarti prediksi sangat akurat.")
     
-    # Membuat Scatter Plot
     fig_eval = go.Figure()
 
-    # Titik Data (Scatter)
     fig_eval.add_trace(go.Scatter(
         x=y_test,
         y=y_pred_eval,
@@ -200,8 +182,6 @@ with st.expander("📊 Lihat Detail Evaluasi Akurasi Model"):
         marker=dict(color='royalblue', size=8, opacity=0.6)
     ))
 
-    # Garis Diagonal (Ideal Line)
-    # Mencari nilai min dan max untuk menarik garis lurus
     min_val = min(y_test.min(), y_pred_eval.min())
     max_val = max(y_test.max(), y_pred_eval.max())
     
