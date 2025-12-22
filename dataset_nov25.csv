@@ -1,0 +1,760 @@
+tgl_kejadian,bulan_kejadian,kota_administrasi,kecamatan,kelurahan,rw,ketinggian_air_min_cm,ketinggian_air_max_cm,rainFall_mm,rainDuration_minutes
+2.0,1,Jakarta Utara,penjaringan,kamal muara,1,20,30,77.4,163.0
+2.0,1,Jakarta Utara,penjaringan,kamal muara,4,20,30,64.7,112.0
+3.0,1,Jakarta Barat,kalideres,kamal,1,10,25,69.2,117.0
+4.0,1,Jakarta Barat,kalideres,kamal,1,10,25,86.7,215.0
+5.0,1,Jakarta Barat,kalideres,kamal,1,10,25,51.6,109.0
+18.0,1,Jakarta Barat,kalideres,kamal,1,10,25,51.6,158.0
+31.0,1,Jakarta Barat,kalideres,kamal,1,10,25,87.8,84.0
+3.0,1,Jakarta Barat,kalideres,kamal,4,10,25,71.6,111.0
+4.0,1,Jakarta Barat,kalideres,kamal,4,10,25,46.9,183.0
+5.0,1,Jakarta Barat,kalideres,kamal,4,10,25,67.1,87.0
+18.0,1,Jakarta Barat,kalideres,kamal,4,10,25,47.0,185.0
+31.0,1,Jakarta Barat,kalideres,kamal,4,10,25,46.9,141.0
+3.0,1,Jakarta Barat,grogol petamburan,jelambar baru,1,15,15,57.3,83.0
+3.0,1,Jakarta Barat,grogol petamburan,jelambar,7,20,20,21.7,145.0
+18.0,1,Jakarta Barat,kembangan,kembangan utara,3,5,20,14.3,136.0
+18.0,1,Jakarta Barat,kembangan,kembangan utara,4,5,20,37.5,122.0
+18.0,1,Jakarta Barat,kembangan,kembangan utara,5,5,20,28.5,35.0
+18.0,1,Jakarta Barat,kembangan,kembangan utara,6,5,20,55.0,68.0
+18.0,1,Jakarta Barat,cengkareng,kapuk,2,5,30,38.1,103.0
+18.0,1,Jakarta Barat,cengkareng,kapuk,5,5,30,28.0,110.0
+18.0,1,Jakarta Barat,cengkareng,kapuk,6,5,30,85.6,137.0
+18.0,1,Jakarta Barat,cengkareng,kapuk,7,5,30,51.7,120.0
+18.0,1,Jakarta Barat,cengkareng,kapuk,9,5,30,57.6,59.0
+18.0,1,Jakarta Barat,cengkareng,kapuk,12,5,30,27.8,128.0
+18.0,1,Jakarta Barat,cengkareng,kapuk,13,5,30,45.4,137.0
+18.0,1,Jakarta Barat,cengkareng,kapuk,15,5,30,58.5,135.0
+18.0,1,Jakarta Barat,cengkareng,kapuk,16,5,30,33.2,156.0
+18.0,1,Jakarta Barat,cengkareng,rawa buaya,1,15,20,63.8,146.0
+18.0,1,Jakarta Barat,cengkareng,rawa buaya,2,15,20,44.2,131.0
+18.0,1,Jakarta Barat,cengkareng,cengkareng timur,3,10,40,61.7,132.0
+18.0,1,Jakarta Barat,cengkareng,cengkareng timur,4,10,40,55.5,69.0
+18.0,1,Jakarta Barat,cengkareng,cengkareng timur,12,10,40,104.5,152.0
+18.0,1,Jakarta Barat,cengkareng,cengkareng timur,13,10,40,67.2,143.0
+15.0,2,Jakarta Pusat,cempaka putih,cempaka putih timur,5,10,35,42.6,138.0
+16.0,2,Jakarta Pusat,cempaka putih,cempaka putih timur,5,10,35,80.2,76.0
+15.0,2,Jakarta Pusat,cempaka putih,cempaka putih timur,7,10,35,39.3,84.0
+16.0,2,Jakarta Pusat,cempaka putih,cempaka putih timur,7,10,35,67.9,170.0
+15.0,2,Jakarta Pusat,cempaka putih,cempaka putih timur,8,10,35,24.6,126.0
+16.0,2,Jakarta Pusat,cempaka putih,cempaka putih timur,8,10,35,37.2,155.0
+15.0,2,Jakarta Pusat,kemayoran,serdang,1,10,50,78.9,151.0
+15.0,2,Jakarta Pusat,kemayoran,serdang,7,10,50,89.8,151.0
+1.0,2,Jakarta Utara,penjaringan,kamal muara,1,5,10,44.7,120.0
+15.0,2,Jakarta Utara,penjaringan,kamal muara,1,5,10,38.9,62.0
+1.0,2,Jakarta Utara,penjaringan,kamal muara,2,5,10,35.2,86.0
+15.0,2,Jakarta Utara,penjaringan,kamal muara,2,5,10,11.7,64.0
+1.0,2,Jakarta Utara,penjaringan,kamal muara,4,5,10,26.9,65.0
+15.0,2,Jakarta Utara,penjaringan,kamal muara,4,5,10,32.0,70.0
+15.0,2,Jakarta Utara,penjaringan,penjaringan,12,10,35,84.9,136.0
+15.0,2,Jakarta Utara,penjaringan,penjaringan,17,10,35,70.6,108.0
+15.0,2,Jakarta Utara,penjaringan,kapuk muara,1,5,15,9.7,140.0
+15.0,2,Jakarta Utara,cilincing,sukapura,1,10,50,81.5,114.0
+16.0,2,Jakarta Utara,cilincing,sukapura,1,10,50,67.3,143.0
+15.0,2,Jakarta Utara,cilincing,sukapura,10,10,50,61.5,132.0
+16.0,2,Jakarta Utara,cilincing,sukapura,10,10,50,87.2,208.0
+15.0,2,Jakarta Utara,kelapa gading,pegangsaan dua,3,60,70,148.1,263.0
+16.0,2,Jakarta Utara,kelapa gading,pegangsaan dua,3,60,70,146.1,296.0
+15.0,2,Jakarta Utara,koja,tugu selatan,4,40,40,73.2,121.0
+16.0,2,Jakarta Utara,koja,tugu selatan,4,40,40,83.8,191.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,1,20,30,74.1,171.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,1,20,30,87.0,138.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,1,20,30,57.9,178.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,1,20,30,63.8,114.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,2,20,30,45.4,191.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,2,20,30,43.6,227.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,2,20,30,83.8,120.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,2,20,30,94.6,117.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,3,20,30,66.1,193.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,3,20,30,87.6,198.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,3,20,30,74.7,114.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,3,20,30,54.6,118.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,4,20,30,74.7,124.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,4,20,30,98.3,81.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,4,20,30,66.8,98.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,4,20,30,98.8,95.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,5,20,30,15.1,104.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,5,20,30,83.9,134.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,5,20,30,69.2,144.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,5,20,30,61.5,197.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,6,20,30,69.3,95.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,6,20,30,27.7,174.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,6,20,30,63.1,126.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,6,20,30,74.6,133.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,7,20,30,97.1,162.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,7,20,30,57.1,90.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,7,20,30,51.3,150.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,7,20,30,57.5,142.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,8,20,30,85.8,155.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,8,20,30,74.1,147.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,8,20,30,56.9,233.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,8,20,30,77.8,109.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,9,20,30,69.4,114.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,9,20,30,86.9,110.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,9,20,30,53.5,113.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,9,20,30,60.9,110.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,10,20,30,59.7,183.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,10,20,30,38.2,192.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,10,20,30,73.4,112.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,10,20,30,72.7,102.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,11,20,30,67.6,154.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,11,20,30,62.8,113.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,11,20,30,39.2,160.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,11,20,30,59.1,143.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,12,20,30,60.6,74.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,12,20,30,51.5,197.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,12,20,30,64.3,207.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,12,20,30,75.6,110.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,13,20,30,105.2,119.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,13,20,30,71.0,146.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,13,20,30,72.7,148.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,13,20,30,66.0,161.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,14,20,30,29.1,215.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,14,20,30,67.0,128.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,14,20,30,68.7,103.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,14,20,30,116.8,80.0
+,2,Jakarta Barat,kalideres,tegal alur,15,20,30,63.7,106.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,15,20,30,73.5,134.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,15,20,30,66.8,207.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,15,20,30,44.1,114.0
+,2,Jakarta Barat,kalideres,tegal alur,16,20,30,90.4,144.0
+5.0,2,Jakarta Barat,kalideres,tegal alur,16,20,30,82.5,134.0
+15.0,2,Jakarta Barat,kalideres,tegal alur,16,20,30,83.3,183.0
+17.0,2,Jakarta Barat,kalideres,tegal alur,16,20,30,49.3,236.0
+15.0,2,Jakarta Barat,kalideres,kamal,1,30,50,118.1,159.0
+15.0,2,Jakarta Barat,kalideres,kamal,2,30,50,62.0,160.0
+15.0,2,Jakarta Barat,kalideres,kamal,3,30,50,101.7,222.0
+15.0,2,Jakarta Barat,kalideres,kamal,4,30,50,133.8,207.0
+15.0,2,Jakarta Barat,kalideres,kamal,5,30,50,70.2,254.0
+15.0,2,Jakarta Barat,kalideres,kamal,6,30,50,78.7,203.0
+15.0,2,Jakarta Barat,kalideres,kamal,7,30,50,92.0,166.0
+15.0,2,Jakarta Barat,kalideres,kamal,8,30,50,79.9,204.0
+15.0,2,Jakarta Barat,kalideres,kamal,9,30,50,59.0,224.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,1,5,60,80.1,190.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,1,5,60,57.5,178.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,2,5,60,88.2,200.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,2,5,60,60.4,204.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,3,5,60,109.7,213.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,3,5,60,63.1,183.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,4,5,60,72.3,151.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,4,5,60,95.0,163.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,5,5,60,54.1,206.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,5,5,60,83.3,125.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,6,5,60,104.9,172.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,6,5,60,46.6,142.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,7,5,60,82.4,159.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,7,5,60,83.9,209.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,9,5,60,94.4,165.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,9,5,60,54.0,159.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,10,5,60,52.3,103.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,10,5,60,89.2,187.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,11,5,60,84.7,183.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,11,5,60,83.8,244.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,12,5,60,85.7,145.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,12,5,60,65.1,166.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,13,5,60,83.4,167.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,13,5,60,84.6,221.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,15,5,60,64.5,154.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,15,5,60,116.1,169.0
+15.0,2,Jakarta Barat,cengkareng,kapuk,16,5,60,88.2,182.0
+16.0,2,Jakarta Barat,cengkareng,kapuk,16,5,60,54.9,165.0
+15.0,2,Jakarta Barat,cengkareng,rawa buaya,1,5,30,69.4,95.0
+15.0,2,Jakarta Barat,cengkareng,rawa buaya,2,5,30,36.8,120.0
+15.0,2,Jakarta Barat,cengkareng,rawa buaya,5,5,30,72.0,155.0
+15.0,2,Jakarta Barat,cengkareng,rawa buaya,11,5,30,79.4,71.0
+15.0,2,Jakarta Barat,cengkareng,duri kosambi,4,10,50,58.6,155.0
+16.0,2,Jakarta Barat,cengkareng,duri kosambi,4,10,50,94.3,122.0
+15.0,2,Jakarta Barat,cengkareng,cengkareng barat,4,10,80,105.8,243.0
+16.0,2,Jakarta Barat,cengkareng,cengkareng barat,4,10,80,113.9,134.0
+15.0,2,Jakarta Barat,cengkareng,cengkareng barat,6,10,80,135.4,173.0
+16.0,2,Jakarta Barat,cengkareng,cengkareng barat,6,10,80,92.6,210.0
+15.0,2,Jakarta Barat,cengkareng,cengkareng barat,9,10,80,82.4,258.0
+16.0,2,Jakarta Barat,cengkareng,cengkareng barat,9,10,80,79.7,192.0
+15.0,2,Jakarta Barat,cengkareng,cengkareng barat,10,10,80,81.2,173.0
+16.0,2,Jakarta Barat,cengkareng,cengkareng barat,10,10,80,96.0,270.0
+15.0,2,Jakarta Barat,cengkareng,cengkareng barat,11,10,80,104.3,137.0
+16.0,2,Jakarta Barat,cengkareng,cengkareng barat,11,10,80,103.0,107.0
+15.0,2,Jakarta Barat,cengkareng,cengkareng barat,16,10,80,114.0,213.0
+16.0,2,Jakarta Barat,cengkareng,cengkareng barat,16,10,80,97.8,175.0
+15.0,2,Jakarta Barat,cengkareng,cengkareng timur,3,10,80,126.6,154.0
+16.0,2,Jakarta Barat,cengkareng,cengkareng timur,3,10,80,92.2,223.0
+15.0,2,Jakarta Barat,cengkareng,cengkareng timur,12,10,80,151.9,205.0
+16.0,2,Jakarta Barat,cengkareng,cengkareng timur,12,10,80,110.0,172.0
+15.0,2,Jakarta Barat,cengkareng,cengkareng timur,13,10,80,80.4,144.0
+16.0,2,Jakarta Barat,cengkareng,cengkareng timur,13,10,80,76.1,230.0
+15.0,2,Jakarta Barat,cengkareng,cengkareng timur,14,10,80,107.1,221.0
+16.0,2,Jakarta Barat,cengkareng,cengkareng timur,14,10,80,93.0,191.0
+15.0,2,Jakarta Barat,cengkareng,cengkareng timur,16,10,80,111.8,269.0
+16.0,2,Jakarta Barat,cengkareng,cengkareng timur,16,10,80,107.0,152.0
+15.0,2,Jakarta Barat,kembangan,kembangan utara,4,15,30,62.3,66.0
+15.0,2,Jakarta Barat,kembangan,kembangan utara,10,15,30,46.8,100.0
+15.0,2,Jakarta Barat,kebon jeruk,duri kepa,1,15,60,56.0,171.0
+15.0,2,Jakarta Barat,kebon jeruk,duri kepa,2,15,60,77.3,182.0
+15.0,2,Jakarta Barat,kebon jeruk,duri kepa,3,15,60,103.4,163.0
+15.0,2,Jakarta Barat,kebon jeruk,duri kepa,4,15,60,90.5,187.0
+15.0,2,Jakarta Barat,kebon jeruk,duri kepa,10,15,60,61.3,122.0
+15.0,2,Jakarta Barat,grogol petamburan,wijaya kusuma,3,10,50,78.5,208.0
+16.0,2,Jakarta Barat,grogol petamburan,wijaya kusuma,3,10,50,82.7,147.0
+15.0,2,Jakarta Barat,grogol petamburan,wijaya kusuma,16,10,50,57.3,195.0
+16.0,2,Jakarta Barat,grogol petamburan,wijaya kusuma,16,10,50,78.1,164.0
+15.0,2,Jakarta Barat,grogol petamburan,jelambar baru,1,10,30,61.2,138.0
+16.0,2,Jakarta Barat,grogol petamburan,jelambar baru,1,10,30,37.1,143.0
+15.0,2,Jakarta Barat,palmerah,jati pulo,5,30,50,97.2,198.0
+16.0,2,Jakarta Barat,palmerah,jati pulo,5,30,50,101.2,206.0
+5.0,2,Jakarta Selatan,cilandak,pondok labu,3,40,50,119.2,248.0
+6.0,2,Jakarta Selatan,cilandak,pondok labu,3,40,50,118.6,203.0
+5.0,2,Jakarta Selatan,pancoran,pangadegan,1,10,300,234.9,553.0
+6.0,2,Jakarta Selatan,pancoran,pangadegan,1,10,300,243.7,521.0
+7.0,2,Jakarta Selatan,pancoran,pangadegan,1,10,300,272.8,583.0
+8.0,2,Jakarta Selatan,pancoran,pangadegan,1,10,300,272.8,498.0
+9.0,2,Jakarta Selatan,pancoran,pangadegan,1,10,300,272.8,597.0
+5.0,2,Jakarta Selatan,pancoran,pangadegan,2,10,300,339.6,523.0
+6.0,2,Jakarta Selatan,pancoran,pangadegan,2,10,300,273.9,468.0
+7.0,2,Jakarta Selatan,pancoran,pangadegan,2,10,300,285.2,530.0
+8.0,2,Jakarta Selatan,pancoran,pangadegan,2,10,300,281.6,498.0
+9.0,2,Jakarta Selatan,pancoran,pangadegan,2,10,300,275.5,559.0
+5.0,2,Jakarta Selatan,pancoran,rawa jati,1,10,250,218.7,424.0
+6.0,2,Jakarta Selatan,pancoran,rawa jati,1,10,250,240.2,432.0
+7.0,2,Jakarta Selatan,pancoran,rawa jati,1,10,250,209.5,374.0
+5.0,2,Jakarta Selatan,pancoran,rawa jati,3,10,250,220.3,432.0
+6.0,2,Jakarta Selatan,pancoran,rawa jati,3,10,250,215.3,353.0
+7.0,2,Jakarta Selatan,pancoran,rawa jati,3,10,250,226.6,387.0
+5.0,2,Jakarta Selatan,pancoran,rawa jati,7,10,250,271.3,480.0
+6.0,2,Jakarta Selatan,pancoran,rawa jati,7,10,250,187.7,481.0
+7.0,2,Jakarta Selatan,pancoran,rawa jati,7,10,250,238.7,467.0
+5.0,2,Jakarta Selatan,pasar minggu,pejaten timur,5,30,200,170.2,366.0
+6.0,2,Jakarta Selatan,pasar minggu,pejaten timur,5,30,200,193.1,403.0
+7.0,2,Jakarta Selatan,pasar minggu,pejaten timur,5,30,200,224.3,405.0
+25.0,2,Jakarta Selatan,pasar minggu,pejaten timur,5,30,200,203.8,359.0
+26.0,2,Jakarta Selatan,pasar minggu,pejaten timur,5,30,200,180.9,465.0
+5.0,2,Jakarta Selatan,pasar minggu,pejaten timur,6,30,200,188.2,440.0
+6.0,2,Jakarta Selatan,pasar minggu,pejaten timur,6,30,200,216.1,396.0
+7.0,2,Jakarta Selatan,pasar minggu,pejaten timur,6,30,200,187.9,406.0
+25.0,2,Jakarta Selatan,pasar minggu,pejaten timur,6,30,200,206.8,413.0
+26.0,2,Jakarta Selatan,pasar minggu,pejaten timur,6,30,200,203.4,323.0
+5.0,2,Jakarta Selatan,pasar minggu,pejaten timur,7,30,200,189.5,395.0
+6.0,2,Jakarta Selatan,pasar minggu,pejaten timur,7,30,200,245.4,378.0
+7.0,2,Jakarta Selatan,pasar minggu,pejaten timur,7,30,200,215.2,365.0
+25.0,2,Jakarta Selatan,pasar minggu,pejaten timur,7,30,200,162.0,394.0
+26.0,2,Jakarta Selatan,pasar minggu,pejaten timur,7,30,200,206.2,477.0
+5.0,2,Jakarta Selatan,pasar minggu,pejaten timur,8,30,200,189.3,431.0
+6.0,2,Jakarta Selatan,pasar minggu,pejaten timur,8,30,200,219.5,382.0
+7.0,2,Jakarta Selatan,pasar minggu,pejaten timur,8,30,200,186.6,428.0
+25.0,2,Jakarta Selatan,pasar minggu,pejaten timur,8,30,200,200.2,461.0
+26.0,2,Jakarta Selatan,pasar minggu,pejaten timur,8,30,200,212.6,442.0
+5.0,2,Jakarta Selatan,tebet,kebon baru,10,20,80,122.3,212.0
+6.0,2,Jakarta Selatan,tebet,kebon baru,10,20,80,81.0,184.0
+7.0,2,Jakarta Selatan,tebet,kebon baru,10,20,80,98.3,238.0
+5.0,2,Jakarta Selatan,tebet,manggarai,1,30,200,193.0,421.0
+6.0,2,Jakarta Selatan,tebet,manggarai,1,30,200,189.4,441.0
+7.0,2,Jakarta Selatan,tebet,manggarai,1,30,200,237.8,430.0
+5.0,2,Jakarta Selatan,tebet,manggarai,4,30,200,210.6,447.0
+6.0,2,Jakarta Selatan,tebet,manggarai,4,30,200,177.3,384.0
+7.0,2,Jakarta Selatan,tebet,manggarai,4,30,200,220.9,458.0
+6.0,2,Jakarta Selatan,tebet,bukit duri,10,10,40,109.9,143.0
+6.0,2,Jakarta Selatan,tebet,bukit duri,11,10,40,88.1,218.0
+5.0,2,Jakarta Selatan,jagakarsa,lenteng agung,2,50,200,187.1,407.0
+5.0,2,Jakarta Selatan,jagakarsa,lenteng agung,3,50,200,207.8,504.0
+5.0,2,Jakarta Selatan,jagakarsa,lenteng agung,4,50,200,242.8,443.0
+5.0,2,Jakarta Selatan,jagakarsa,lenteng agung,6,50,200,203.3,409.0
+5.0,2,Jakarta Selatan,jagakarsa,lenteng agung,7,50,200,226.4,416.0
+5.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,1,100,300,345.5,647.0
+6.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,1,100,300,311.5,677.0
+5.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,2,100,300,328.8,681.0
+6.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,2,100,300,265.2,637.0
+5.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,5,100,300,309.5,659.0
+6.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,5,100,300,324.9,746.0
+5.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,6,100,300,305.0,729.0
+6.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,6,100,300,362.6,677.0
+5.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,7,100,300,301.4,662.0
+6.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,7,100,300,321.2,665.0
+5.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,8,100,300,332.6,685.0
+6.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,8,100,300,358.8,619.0
+5.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,12,100,300,301.3,650.0
+6.0,2,Jakarta Selatan,jagakarsa,srengseng sawah,12,100,300,353.3,593.0
+5.0,2,Jakarta Selatan,mampang prapatan,bangka,2,30,40,82.7,181.0
+6.0,2,Jakarta Selatan,mampang prapatan,bangka,2,30,40,62.9,191.0
+3.0,2,Jakarta Timur,cakung,rawa terate,4,10,120,136.7,236.0
+5.0,2,Jakarta Timur,cakung,rawa terate,4,10,120,131.5,318.0
+6.0,2,Jakarta Timur,cakung,rawa terate,4,10,120,115.5,206.0
+15.0,2,Jakarta Timur,cakung,rawa terate,4,10,120,128.9,196.0
+16.0,2,Jakarta Timur,cakung,rawa terate,4,10,120,119.8,264.0
+17.0,2,Jakarta Timur,cakung,rawa terate,4,10,120,129.8,297.0
+3.0,2,Jakarta Timur,cakung,rawa terate,5,10,120,140.7,322.0
+5.0,2,Jakarta Timur,cakung,rawa terate,5,10,120,159.2,237.0
+6.0,2,Jakarta Timur,cakung,rawa terate,5,10,120,102.7,298.0
+15.0,2,Jakarta Timur,cakung,rawa terate,5,10,120,170.2,253.0
+16.0,2,Jakarta Timur,cakung,rawa terate,5,10,120,88.5,248.0
+17.0,2,Jakarta Timur,cakung,rawa terate,5,10,120,124.5,290.0
+15.0,2,Jakarta Timur,cakung,cakung barat,3,30,70,116.8,236.0
+16.0,2,Jakarta Timur,cakung,cakung barat,3,30,70,110.6,147.0
+15.0,2,Jakarta Timur,cakung,cakung barat,7,30,70,92.5,269.0
+16.0,2,Jakarta Timur,cakung,cakung barat,7,30,70,100.8,265.0
+15.0,2,Jakarta Timur,cakung,cakung barat,8,30,70,95.1,185.0
+16.0,2,Jakarta Timur,cakung,cakung barat,8,30,70,93.2,226.0
+15.0,2,Jakarta Timur,cakung,jatinegara,1,10,30,77.0,140.0
+15.0,2,Jakarta Timur,cakung,jatinegara,2,10,30,67.1,130.0
+15.0,2,Jakarta Timur,cakung,jatinegara,3,10,30,46.1,98.0
+15.0,2,Jakarta Timur,cakung,jatinegara,5,10,30,78.0,93.0
+15.0,2,Jakarta Timur,cakung,jatinegara,6,10,30,66.1,119.0
+15.0,2,Jakarta Timur,cakung,jatinegara,7,10,30,76.3,167.0
+15.0,2,Jakarta Timur,cakung,jatinegara,8,10,30,72.6,142.0
+15.0,2,Jakarta Timur,cakung,jatinegara,11,10,30,43.4,105.0
+15.0,2,Jakarta Timur,cakung,jatinegara,14,10,30,48.8,151.0
+3.0,2,Jakarta Timur,jatinegara,kampung melayu,1,10,220,217.4,291.0
+5.0,2,Jakarta Timur,jatinegara,kampung melayu,1,10,220,214.7,451.0
+6.0,2,Jakarta Timur,jatinegara,kampung melayu,1,10,220,202.1,335.0
+7.0,2,Jakarta Timur,jatinegara,kampung melayu,1,10,220,204.8,391.0
+8.0,2,Jakarta Timur,jatinegara,kampung melayu,1,10,220,228.1,360.0
+13.0,2,Jakarta Timur,jatinegara,kampung melayu,1,10,220,190.7,353.0
+26.0,2,Jakarta Timur,jatinegara,kampung melayu,1,10,220,213.4,451.0
+3.0,2,Jakarta Timur,jatinegara,kampung melayu,2,10,220,198.5,386.0
+5.0,2,Jakarta Timur,jatinegara,kampung melayu,2,10,220,198.1,419.0
+6.0,2,Jakarta Timur,jatinegara,kampung melayu,2,10,220,224.5,403.0
+7.0,2,Jakarta Timur,jatinegara,kampung melayu,2,10,220,219.0,424.0
+8.0,2,Jakarta Timur,jatinegara,kampung melayu,2,10,220,218.8,408.0
+13.0,2,Jakarta Timur,jatinegara,kampung melayu,2,10,220,228.6,354.0
+26.0,2,Jakarta Timur,jatinegara,kampung melayu,2,10,220,202.9,445.0
+3.0,2,Jakarta Timur,jatinegara,kampung melayu,4,10,220,216.1,385.0
+5.0,2,Jakarta Timur,jatinegara,kampung melayu,4,10,220,196.3,343.0
+6.0,2,Jakarta Timur,jatinegara,kampung melayu,4,10,220,209.0,388.0
+7.0,2,Jakarta Timur,jatinegara,kampung melayu,4,10,220,199.9,465.0
+8.0,2,Jakarta Timur,jatinegara,kampung melayu,4,10,220,204.4,439.0
+13.0,2,Jakarta Timur,jatinegara,kampung melayu,4,10,220,214.4,391.0
+26.0,2,Jakarta Timur,jatinegara,kampung melayu,4,10,220,186.1,391.0
+3.0,2,Jakarta Timur,jatinegara,kampung melayu,5,10,220,244.3,392.0
+5.0,2,Jakarta Timur,jatinegara,kampung melayu,5,10,220,182.4,488.0
+6.0,2,Jakarta Timur,jatinegara,kampung melayu,5,10,220,178.2,420.0
+7.0,2,Jakarta Timur,jatinegara,kampung melayu,5,10,220,225.7,422.0
+8.0,2,Jakarta Timur,jatinegara,kampung melayu,5,10,220,218.3,446.0
+13.0,2,Jakarta Timur,jatinegara,kampung melayu,5,10,220,215.0,415.0
+26.0,2,Jakarta Timur,jatinegara,kampung melayu,5,10,220,215.1,395.0
+3.0,2,Jakarta Timur,jatinegara,kampung melayu,6,10,220,202.3,397.0
+5.0,2,Jakarta Timur,jatinegara,kampung melayu,6,10,220,184.6,402.0
+6.0,2,Jakarta Timur,jatinegara,kampung melayu,6,10,220,204.0,404.0
+7.0,2,Jakarta Timur,jatinegara,kampung melayu,6,10,220,189.0,434.0
+8.0,2,Jakarta Timur,jatinegara,kampung melayu,6,10,220,222.0,407.0
+13.0,2,Jakarta Timur,jatinegara,kampung melayu,6,10,220,199.6,434.0
+26.0,2,Jakarta Timur,jatinegara,kampung melayu,6,10,220,186.0,402.0
+3.0,2,Jakarta Timur,jatinegara,kampung melayu,7,10,220,196.1,408.0
+5.0,2,Jakarta Timur,jatinegara,kampung melayu,7,10,220,210.8,325.0
+6.0,2,Jakarta Timur,jatinegara,kampung melayu,7,10,220,191.2,442.0
+7.0,2,Jakarta Timur,jatinegara,kampung melayu,7,10,220,186.1,419.0
+8.0,2,Jakarta Timur,jatinegara,kampung melayu,7,10,220,207.4,445.0
+13.0,2,Jakarta Timur,jatinegara,kampung melayu,7,10,220,207.4,289.0
+26.0,2,Jakarta Timur,jatinegara,kampung melayu,7,10,220,192.4,489.0
+3.0,2,Jakarta Timur,jatinegara,kampung melayu,8,10,220,193.1,399.0
+5.0,2,Jakarta Timur,jatinegara,kampung melayu,8,10,220,207.1,449.0
+6.0,2,Jakarta Timur,jatinegara,kampung melayu,8,10,220,173.5,363.0
+7.0,2,Jakarta Timur,jatinegara,kampung melayu,8,10,220,174.4,430.0
+8.0,2,Jakarta Timur,jatinegara,kampung melayu,8,10,220,188.1,363.0
+13.0,2,Jakarta Timur,jatinegara,kampung melayu,8,10,220,198.2,380.0
+26.0,2,Jakarta Timur,jatinegara,kampung melayu,8,10,220,208.7,482.0
+5.0,2,Jakarta Timur,jatinegara,bidara cina,3,10,250,254.5,442.0
+6.0,2,Jakarta Timur,jatinegara,bidara cina,3,10,250,242.2,459.0
+7.0,2,Jakarta Timur,jatinegara,bidara cina,3,10,250,221.8,485.0
+8.0,2,Jakarta Timur,jatinegara,bidara cina,3,10,250,224.6,470.0
+9.0,2,Jakarta Timur,jatinegara,bidara cina,3,10,250,204.9,456.0
+26.0,2,Jakarta Timur,jatinegara,bidara cina,3,10,250,224.6,465.0
+5.0,2,Jakarta Timur,jatinegara,bidara cina,5,10,250,219.2,546.0
+6.0,2,Jakarta Timur,jatinegara,bidara cina,5,10,250,231.5,448.0
+7.0,2,Jakarta Timur,jatinegara,bidara cina,5,10,250,208.5,458.0
+8.0,2,Jakarta Timur,jatinegara,bidara cina,5,10,250,235.4,492.0
+9.0,2,Jakarta Timur,jatinegara,bidara cina,5,10,250,255.7,494.0
+26.0,2,Jakarta Timur,jatinegara,bidara cina,5,10,250,222.8,497.0
+5.0,2,Jakarta Timur,jatinegara,bidara cina,6,10,250,233.0,476.0
+6.0,2,Jakarta Timur,jatinegara,bidara cina,6,10,250,238.8,404.0
+7.0,2,Jakarta Timur,jatinegara,bidara cina,6,10,250,217.0,515.0
+8.0,2,Jakarta Timur,jatinegara,bidara cina,6,10,250,229.5,404.0
+9.0,2,Jakarta Timur,jatinegara,bidara cina,6,10,250,225.3,462.0
+26.0,2,Jakarta Timur,jatinegara,bidara cina,6,10,250,227.0,420.0
+5.0,2,Jakarta Timur,jatinegara,bidara cina,7,10,250,209.5,447.0
+6.0,2,Jakarta Timur,jatinegara,bidara cina,7,10,250,225.5,463.0
+7.0,2,Jakarta Timur,jatinegara,bidara cina,7,10,250,235.0,463.0
+8.0,2,Jakarta Timur,jatinegara,bidara cina,7,10,250,254.0,467.0
+9.0,2,Jakarta Timur,jatinegara,bidara cina,7,10,250,244.2,515.0
+26.0,2,Jakarta Timur,jatinegara,bidara cina,7,10,250,268.1,468.0
+5.0,2,Jakarta Timur,jatinegara,bidara cina,11,10,250,209.7,440.0
+6.0,2,Jakarta Timur,jatinegara,bidara cina,11,10,250,242.4,489.0
+7.0,2,Jakarta Timur,jatinegara,bidara cina,11,10,250,228.7,498.0
+8.0,2,Jakarta Timur,jatinegara,bidara cina,11,10,250,268.8,401.0
+9.0,2,Jakarta Timur,jatinegara,bidara cina,11,10,250,208.8,474.0
+26.0,2,Jakarta Timur,jatinegara,bidara cina,11,10,250,208.2,478.0
+5.0,2,Jakarta Timur,jatinegara,bidara cina,12,10,250,213.0,438.0
+6.0,2,Jakarta Timur,jatinegara,bidara cina,12,10,250,182.5,505.0
+7.0,2,Jakarta Timur,jatinegara,bidara cina,12,10,250,214.5,444.0
+8.0,2,Jakarta Timur,jatinegara,bidara cina,12,10,250,209.8,455.0
+9.0,2,Jakarta Timur,jatinegara,bidara cina,12,10,250,228.0,443.0
+26.0,2,Jakarta Timur,jatinegara,bidara cina,12,10,250,231.8,451.0
+5.0,2,Jakarta Timur,jatinegara,bidara cina,14,10,250,262.5,406.0
+6.0,2,Jakarta Timur,jatinegara,bidara cina,14,10,250,244.0,392.0
+7.0,2,Jakarta Timur,jatinegara,bidara cina,14,10,250,213.5,514.0
+8.0,2,Jakarta Timur,jatinegara,bidara cina,14,10,250,207.0,416.0
+9.0,2,Jakarta Timur,jatinegara,bidara cina,14,10,250,234.8,410.0
+26.0,2,Jakarta Timur,jatinegara,bidara cina,14,10,250,198.6,364.0
+5.0,2,Jakarta Timur,jatinegara,bidara cina,15,10,250,261.6,424.0
+6.0,2,Jakarta Timur,jatinegara,bidara cina,15,10,250,248.6,397.0
+7.0,2,Jakarta Timur,jatinegara,bidara cina,15,10,250,215.6,516.0
+8.0,2,Jakarta Timur,jatinegara,bidara cina,15,10,250,190.7,490.0
+9.0,2,Jakarta Timur,jatinegara,bidara cina,15,10,250,252.1,422.0
+26.0,2,Jakarta Timur,jatinegara,bidara cina,15,10,250,222.7,540.0
+5.0,2,Jakarta Timur,jatinegara,bidara cina,16,10,250,249.8,489.0
+6.0,2,Jakarta Timur,jatinegara,bidara cina,16,10,250,193.1,437.0
+7.0,2,Jakarta Timur,jatinegara,bidara cina,16,10,250,213.0,350.0
+8.0,2,Jakarta Timur,jatinegara,bidara cina,16,10,250,225.1,542.0
+9.0,2,Jakarta Timur,jatinegara,bidara cina,16,10,250,225.9,394.0
+26.0,2,Jakarta Timur,jatinegara,bidara cina,16,10,250,216.0,384.0
+5.0,2,Jakarta Timur,jatinegara,cipinang muara,13,10,120,140.0,296.0
+6.0,2,Jakarta Timur,jatinegara,cipinang muara,13,10,120,106.1,353.0
+5.0,2,Jakarta Timur,makasar,cipinang melayu,3,20,90,109.7,280.0
+5.0,2,Jakarta Timur,makasar,cipinang melayu,4,20,90,114.9,248.0
+5.0,2,Jakarta Timur,makasar,cipinang melayu,5,20,90,122.8,249.0
+5.0,2,Jakarta Timur,makasar,makasar,4,20,50,96.7,199.0
+6.0,2,Jakarta Timur,makasar,makasar,4,20,50,60.0,195.0
+5.0,2,Jakarta Timur,kramat jati,cawang,1,20,270,216.8,506.0
+6.0,2,Jakarta Timur,kramat jati,cawang,1,20,270,273.1,499.0
+7.0,2,Jakarta Timur,kramat jati,cawang,1,20,270,254.1,492.0
+26.0,2,Jakarta Timur,kramat jati,cawang,1,20,270,232.5,465.0
+5.0,2,Jakarta Timur,kramat jati,cawang,2,20,270,278.5,484.0
+6.0,2,Jakarta Timur,kramat jati,cawang,2,20,270,249.8,427.0
+7.0,2,Jakarta Timur,kramat jati,cawang,2,20,270,271.1,491.0
+26.0,2,Jakarta Timur,kramat jati,cawang,2,20,270,248.9,455.0
+5.0,2,Jakarta Timur,kramat jati,cawang,3,20,270,288.7,451.0
+6.0,2,Jakarta Timur,kramat jati,cawang,3,20,270,282.6,502.0
+7.0,2,Jakarta Timur,kramat jati,cawang,3,20,270,242.5,551.0
+26.0,2,Jakarta Timur,kramat jati,cawang,3,20,270,266.9,532.0
+5.0,2,Jakarta Timur,kramat jati,cawang,5,20,270,260.4,432.0
+6.0,2,Jakarta Timur,kramat jati,cawang,5,20,270,274.9,455.0
+7.0,2,Jakarta Timur,kramat jati,cawang,5,20,270,228.2,533.0
+26.0,2,Jakarta Timur,kramat jati,cawang,5,20,270,261.2,456.0
+5.0,2,Jakarta Timur,kramat jati,cawang,8,20,270,268.7,486.0
+6.0,2,Jakarta Timur,kramat jati,cawang,8,20,270,212.3,517.0
+7.0,2,Jakarta Timur,kramat jati,cawang,8,20,270,223.8,456.0
+26.0,2,Jakarta Timur,kramat jati,cawang,8,20,270,206.7,499.0
+5.0,2,Jakarta Timur,kramat jati,cawang,12,20,270,242.1,442.0
+6.0,2,Jakarta Timur,kramat jati,cawang,12,20,270,261.9,471.0
+7.0,2,Jakarta Timur,kramat jati,cawang,12,20,270,277.5,508.0
+26.0,2,Jakarta Timur,kramat jati,cawang,12,20,270,249.0,431.0
+5.0,2,Jakarta Timur,kramat jati,cililitan,5,30,250,272.6,498.0
+6.0,2,Jakarta Timur,kramat jati,cililitan,5,30,250,212.4,479.0
+7.0,2,Jakarta Timur,kramat jati,cililitan,5,30,250,205.9,502.0
+5.0,2,Jakarta Timur,kramat jati,cililitan,6,30,250,238.9,489.0
+6.0,2,Jakarta Timur,kramat jati,cililitan,6,30,250,247.7,535.0
+7.0,2,Jakarta Timur,kramat jati,cililitan,6,30,250,239.3,485.0
+5.0,2,Jakarta Timur,kramat jati,cililitan,7,30,250,198.7,463.0
+6.0,2,Jakarta Timur,kramat jati,cililitan,7,30,250,238.2,485.0
+7.0,2,Jakarta Timur,kramat jati,cililitan,7,30,250,213.9,502.0
+5.0,2,Jakarta Timur,kramat jati,cililitan,15,30,250,253.4,482.0
+6.0,2,Jakarta Timur,kramat jati,cililitan,15,30,250,247.3,482.0
+7.0,2,Jakarta Timur,kramat jati,cililitan,15,30,250,221.2,452.0
+5.0,2,Jakarta Timur,kramat jati,cililitan,16,30,250,229.7,453.0
+6.0,2,Jakarta Timur,kramat jati,cililitan,16,30,250,218.8,424.0
+7.0,2,Jakarta Timur,kramat jati,cililitan,16,30,250,238.7,550.0
+5.0,2,Jakarta Timur,kramat jati,bale kambang,1,60,300,319.1,550.0
+6.0,2,Jakarta Timur,kramat jati,bale kambang,1,60,300,280.3,572.0
+7.0,2,Jakarta Timur,kramat jati,bale kambang,1,60,300,310.1,571.0
+8.0,2,Jakarta Timur,kramat jati,bale kambang,1,60,300,289.4,636.0
+9.0,2,Jakarta Timur,kramat jati,bale kambang,1,60,300,284.1,588.0
+10.0,2,Jakarta Timur,kramat jati,bale kambang,1,60,300,297.9,650.0
+5.0,2,Jakarta Timur,kramat jati,bale kambang,2,60,300,279.3,573.0
+6.0,2,Jakarta Timur,kramat jati,bale kambang,2,60,300,288.9,611.0
+7.0,2,Jakarta Timur,kramat jati,bale kambang,2,60,300,276.0,567.0
+8.0,2,Jakarta Timur,kramat jati,bale kambang,2,60,300,339.3,686.0
+9.0,2,Jakarta Timur,kramat jati,bale kambang,2,60,300,300.7,552.0
+10.0,2,Jakarta Timur,kramat jati,bale kambang,2,60,300,286.0,612.0
+5.0,2,Jakarta Timur,kramat jati,bale kambang,5,60,300,304.3,625.0
+6.0,2,Jakarta Timur,kramat jati,bale kambang,5,60,300,297.8,617.0
+7.0,2,Jakarta Timur,kramat jati,bale kambang,5,60,300,295.6,593.0
+8.0,2,Jakarta Timur,kramat jati,bale kambang,5,60,300,312.3,595.0
+9.0,2,Jakarta Timur,kramat jati,bale kambang,5,60,300,315.2,602.0
+10.0,2,Jakarta Timur,kramat jati,bale kambang,5,60,300,289.4,594.0
+5.0,2,Jakarta Timur,pasar rebo,gedong,3,50,150,168.5,399.0
+6.0,2,Jakarta Timur,pasar rebo,gedong,3,50,150,174.5,448.0
+6.0,2,Jakarta Timur,matraman,kebon manggis,3,20,80,59.0,188.0
+7.0,2,Jakarta Timur,matraman,kebon manggis,3,20,80,74.7,155.0
+6.0,2,Jakarta Timur,matraman,kebon manggis,4,20,80,132.3,206.0
+7.0,2,Jakarta Timur,matraman,kebon manggis,4,20,80,137.9,313.0
+4.0,3,Jakarta Selatan,pancoran,rawajati,7,30,30,70.0,118.0
+4.0,3,Jakarta Selatan,pasar minggu,pejaten timur,5,50,50,116.5,276.0
+10.0,3,Jakarta Selatan,pasar minggu,pejaten timur,5,50,50,111.2,277.0
+4.0,3,Jakarta Selatan,pasar minggu,pejaten timur,6,50,50,166.6,188.0
+10.0,3,Jakarta Selatan,pasar minggu,pejaten timur,6,50,50,127.4,233.0
+4.0,3,Jakarta Selatan,pasar minggu,pejaten timur,8,50,50,102.4,275.0
+10.0,3,Jakarta Selatan,pasar minggu,pejaten timur,8,50,50,85.9,195.0
+4.0,3,Jakarta Selatan,tebet,kebon baru,10,30,30,42.9,142.0
+4.0,3,Jakarta Timur,jatinegara,bidara cina,7,50,50,109.1,187.0
+10.0,3,Jakarta Timur,jatinegara,bidara cina,7,50,50,89.9,169.0
+4.0,3,Jakarta Timur,jatinegara,bidara cina,11,50,50,76.6,184.0
+10.0,3,Jakarta Timur,jatinegara,bidara cina,11,50,50,92.1,161.0
+4.0,3,Jakarta Timur,jatinegara,kampung melayu,4,10,10,23.4,91.0
+10.0,3,Jakarta Timur,jatinegara,kampung melayu,4,10,10,78.7,59.0
+13.0,3,Jakarta Timur,jatinegara,kampung melayu,4,10,10,62.6,99.0
+4.0,3,Jakarta Timur,jatinegara,kampung melayu,5,10,10,44.8,28.0
+10.0,3,Jakarta Timur,jatinegara,kampung melayu,5,10,10,74.6,103.0
+13.0,3,Jakarta Timur,jatinegara,kampung melayu,5,10,10,46.5,123.0
+4.0,3,Jakarta Timur,jatinegara,kampung melayu,6,10,10,27.8,10.0
+10.0,3,Jakarta Timur,jatinegara,kampung melayu,6,10,10,75.5,105.0
+13.0,3,Jakarta Timur,jatinegara,kampung melayu,6,10,10,55.8,139.0
+4.0,3,Jakarta Timur,jatinegara,kampung melayu,7,10,10,24.3,42.0
+10.0,3,Jakarta Timur,jatinegara,kampung melayu,7,10,10,41.2,157.0
+13.0,3,Jakarta Timur,jatinegara,kampung melayu,7,10,10,27.5,107.0
+4.0,3,Jakarta Timur,jatinegara,kampung melayu,8,10,10,17.3,62.0
+10.0,3,Jakarta Timur,jatinegara,kampung melayu,8,10,10,63.5,88.0
+13.0,3,Jakarta Timur,jatinegara,kampung melayu,8,10,10,83.2,112.0
+4.0,3,Jakarta Timur,kramat jati,cawang,1,50,50,77.0,213.0
+10.0,3,Jakarta Timur,kramat jati,cawang,1,50,50,116.3,232.0
+13.0,3,Jakarta Timur,kramat jati,cawang,1,50,50,92.0,173.0
+4.0,3,Jakarta Timur,kramat jati,cawang,2,50,50,95.3,217.0
+10.0,3,Jakarta Timur,kramat jati,cawang,2,50,50,93.2,153.0
+13.0,3,Jakarta Timur,kramat jati,cawang,2,50,50,87.7,206.0
+4.0,3,Jakarta Timur,kramat jati,cawang,3,50,50,106.0,174.0
+10.0,3,Jakarta Timur,kramat jati,cawang,3,50,50,88.4,181.0
+13.0,3,Jakarta Timur,kramat jati,cawang,3,50,50,110.4,259.0
+4.0,3,Jakarta Timur,kramat jati,cawang,5,50,50,104.0,254.0
+10.0,3,Jakarta Timur,kramat jati,cawang,5,50,50,100.2,234.0
+13.0,3,Jakarta Timur,kramat jati,cawang,5,50,50,86.8,166.0
+4.0,3,Jakarta Timur,kramat jati,cawang,8,50,50,93.5,197.0
+10.0,3,Jakarta Timur,kramat jati,cawang,8,50,50,120.1,259.0
+13.0,3,Jakarta Timur,kramat jati,cawang,8,50,50,115.0,216.0
+4.0,3,Jakarta Timur,kramat jati,cililitan,6,50,50,85.4,303.0
+4.0,3,Jakarta Timur,kramat jati,cililitan,7,50,50,107.0,226.0
+12.0,3,Jakarta Timur,makasar,cipinang melayu,3,10,10,60.0,98.0
+12.0,3,Jakarta Timur,makasar,cipinang melayu,4,10,10,11.6,78.0
+22.0,4,Jakarta Selatan,pesanggrahan,ulujami,1,20,20,70.9,125.0
+4.0,4,Jakarta Timur,cakung,jatinegara,2,50,50,91.7,204.0
+18.0,4,Jakarta Timur,cakung,penggilingan,12,20,20,71.4,148.0
+4.0,4,Jakarta Timur,makasar,cipinang melayu,3,10,10,29.7,128.0
+4.0,4,Jakarta Timur,makasar,cipinang melayu,4,10,10,8.9,59.0
+4.0,4,Jakarta Timur,pulogadung,rawamangun,14,20,20,27.4,67.0
+8.0,4,Jakarta Timur,jatinegara,kampung melayu,4,60,60,121.0,167.0
+10.0,4,Jakarta Timur,jatinegara,kampung melayu,4,60,60,125.2,260.0
+17.0,4,Jakarta Timur,jatinegara,kampung melayu,4,60,60,101.9,196.0
+8.0,4,Jakarta Timur,jatinegara,kampung melayu,5,60,60,132.8,154.0
+10.0,4,Jakarta Timur,jatinegara,kampung melayu,5,60,60,86.8,256.0
+17.0,4,Jakarta Timur,jatinegara,kampung melayu,5,60,60,118.7,340.0
+8.0,4,Jakarta Timur,jatinegara,kampung melayu,6,60,60,95.8,240.0
+10.0,4,Jakarta Timur,jatinegara,kampung melayu,6,60,60,107.0,274.0
+17.0,4,Jakarta Timur,jatinegara,kampung melayu,6,60,60,120.9,243.0
+8.0,4,Jakarta Timur,jatinegara,kampung melayu,7,60,60,102.8,236.0
+10.0,4,Jakarta Timur,jatinegara,kampung melayu,7,60,60,112.3,277.0
+17.0,4,Jakarta Timur,jatinegara,kampung melayu,7,60,60,140.1,228.0
+8.0,4,Jakarta Timur,jatinegara,kampung melayu,8,60,60,108.5,251.0
+10.0,4,Jakarta Timur,jatinegara,kampung melayu,8,60,60,136.7,253.0
+17.0,4,Jakarta Timur,jatinegara,kampung melayu,8,60,60,97.4,213.0
+8.0,4,Jakarta Timur,jatinegara,bidara cina,5,35,35,93.1,205.0
+10.0,4,Jakarta Timur,jatinegara,bidara cina,5,35,35,111.3,158.0
+17.0,4,Jakarta Timur,jatinegara,bidara cina,5,35,35,33.1,135.0
+8.0,4,Jakarta Timur,jatinegara,bidara cina,7,35,35,66.6,186.0
+10.0,4,Jakarta Timur,jatinegara,bidara cina,7,35,35,94.0,129.0
+17.0,4,Jakarta Timur,jatinegara,bidara cina,7,35,35,78.4,166.0
+8.0,4,Jakarta Timur,jatinegara,bidara cina,11,35,35,89.9,165.0
+10.0,4,Jakarta Timur,jatinegara,bidara cina,11,35,35,70.4,208.0
+17.0,4,Jakarta Timur,jatinegara,bidara cina,11,35,35,84.2,184.0
+8.0,4,Jakarta Timur,kramat jati,cawang,1,60,60,116.9,239.0
+10.0,4,Jakarta Timur,kramat jati,cawang,1,60,60,143.4,273.0
+17.0,4,Jakarta Timur,kramat jati,cawang,1,60,60,125.1,296.0
+8.0,4,Jakarta Timur,kramat jati,cawang,2,60,60,126.8,262.0
+10.0,4,Jakarta Timur,kramat jati,cawang,2,60,60,111.8,240.0
+17.0,4,Jakarta Timur,kramat jati,cawang,2,60,60,110.2,188.0
+8.0,4,Jakarta Timur,kramat jati,cawang,3,60,60,111.3,197.0
+10.0,4,Jakarta Timur,kramat jati,cawang,3,60,60,127.9,228.0
+17.0,4,Jakarta Timur,kramat jati,cawang,3,60,60,111.6,216.0
+8.0,4,Jakarta Timur,kramat jati,cawang,5,60,60,125.8,233.0
+10.0,4,Jakarta Timur,kramat jati,cawang,5,60,60,161.5,242.0
+17.0,4,Jakarta Timur,kramat jati,cawang,5,60,60,137.4,261.0
+8.0,4,Jakarta Timur,kramat jati,cawang,8,60,60,113.5,237.0
+10.0,4,Jakarta Timur,kramat jati,cawang,8,60,60,144.0,259.0
+17.0,4,Jakarta Timur,kramat jati,cawang,8,60,60,111.8,243.0
+17.0,5,Jakarta Barat,kalideres,kamal,1,20,20,19.2,41.0
+3.0,5,Jakarta Selatan,pasar minggu,jati padang,2,10,40,47.3,97.0
+3.0,5,Jakarta Selatan,pasar minggu,jati padang,4,10,40,30.1,129.0
+3.0,5,Jakarta Selatan,pasar minggu,jati padang,5,10,40,60.5,87.0
+3.0,5,Jakarta Selatan,pasar minggu,jati padang,6,10,40,67.9,159.0
+3.0,5,Jakarta Selatan,pasar minggu,jati padang,9,10,40,101.0,196.0
+3.0,5,Jakarta Selatan,pasar minggu,ragunan,7,10,30,66.5,169.0
+3.0,5,Jakarta Selatan,pasar minggu,ragunan,8,10,30,55.6,111.0
+3.0,5,Jakarta Selatan,pasar minggu,cilandak timur,1,10,120,144.1,315.0
+20.0,5,Jakarta Selatan,pasar minggu,cilandak timur,1,10,120,83.3,261.0
+3.0,5,Jakarta Selatan,pasar minggu,cilandak timur,3,10,120,132.2,242.0
+20.0,5,Jakarta Selatan,pasar minggu,cilandak timur,3,10,120,142.9,230.0
+3.0,5,Jakarta Selatan,pasar minggu,cilandak timur,4,10,120,97.9,243.0
+20.0,5,Jakarta Selatan,pasar minggu,cilandak timur,4,10,120,150.4,239.0
+3.0,5,Jakarta Selatan,pasar minggu,cilandak timur,9,10,120,134.3,262.0
+20.0,5,Jakarta Selatan,pasar minggu,cilandak timur,9,10,120,119.2,261.0
+3.0,5,Jakarta Selatan,pasar minggu,cilandak timur,13,10,120,140.2,255.0
+20.0,5,Jakarta Selatan,pasar minggu,cilandak timur,13,10,120,172.9,272.0
+21.0,5,Jakarta Selatan,pasar minggu,pejaten timur,5,10,50,78.6,198.0
+21.0,5,Jakarta Selatan,pasar minggu,pejaten timur,6,10,50,80.0,188.0
+21.0,5,Jakarta Selatan,pasar minggu,pejaten timur,7,10,50,65.8,91.0
+21.0,5,Jakarta Selatan,pasar minggu,pejaten timur,8,10,50,58.0,48.0
+3.0,5,Jakarta Selatan,mampang prapatan,bangka,1,100,150,234.1,472.0
+3.0,5,Jakarta Selatan,mampang prapatan,bangka,2,100,150,200.4,380.0
+3.0,5,Jakarta Selatan,mampang prapatan,bangka,3,100,150,218.9,426.0
+3.0,5,Jakarta Selatan,mampang prapatan,bangka,4,100,150,207.9,388.0
+3.0,5,Jakarta Selatan,pancoran,duren tiga,1,10,60,92.1,93.0
+3.0,5,Jakarta Selatan,pancoran,duren tiga,2,10,60,89.2,187.0
+3.0,5,Jakarta Selatan,pancoran,duren tiga,5,10,60,103.3,195.0
+21.0,5,Jakarta Selatan,pancoran,rawajati,7,30,60,87.3,172.0
+21.0,5,Jakarta Selatan,pancoran,pengadegan,1,10,50,69.6,46.0
+3.0,5,Jakarta Selatan,cilandak,pondok labu,1,10,80,77.9,173.0
+3.0,5,Jakarta Selatan,cilandak,pondok labu,2,10,80,88.6,211.0
+3.0,5,Jakarta Selatan,cilandak,pondok labu,3,10,80,105.0,136.0
+3.0,5,Jakarta Selatan,cilandak,pondok labu,7,10,80,112.6,202.0
+3.0,5,Jakarta Selatan,cilandak,cipete selatan,1,20,40,56.6,149.0
+3.0,5,Jakarta Selatan,cilandak,cipete selatan,7,20,40,92.4,173.0
+3.0,5,Jakarta Selatan,kebayoran baru,petogogan,2,40,40,117.1,185.0
+21.0,5,Jakarta Selatan,tebet,kebon baru,1,10,20,60.8,66.0
+20.0,5,Jakarta Timur,jatinegara,kampung melayu,4,10,100,150.0,273.0
+21.0,5,Jakarta Timur,jatinegara,kampung melayu,4,10,100,97.0,219.0
+20.0,5,Jakarta Timur,jatinegara,kampung melayu,5,10,100,87.6,224.0
+21.0,5,Jakarta Timur,jatinegara,kampung melayu,5,10,100,76.9,188.0
+20.0,5,Jakarta Timur,jatinegara,kampung melayu,7,10,100,142.4,207.0
+21.0,5,Jakarta Timur,jatinegara,kampung melayu,7,10,100,125.6,190.0
+20.0,5,Jakarta Timur,jatinegara,kampung melayu,8,10,100,111.4,218.0
+21.0,5,Jakarta Timur,jatinegara,kampung melayu,8,10,100,118.1,293.0
+21.0,5,Jakarta Timur,jatinegara,bidara cina,7,70,110,142.5,275.0
+21.0,5,Jakarta Timur,jatinegara,bidara cina,11,70,110,213.9,265.0
+20.0,5,Jakarta Timur,kramat jati,cawang,1,10,70,92.6,239.0
+21.0,5,Jakarta Timur,kramat jati,cawang,1,10,70,92.2,172.0
+20.0,5,Jakarta Timur,kramat jati,cawang,2,10,70,104.5,153.0
+21.0,5,Jakarta Timur,kramat jati,cawang,2,10,70,99.6,222.0
+20.0,5,Jakarta Timur,kramat jati,cawang,3,10,70,94.5,156.0
+21.0,5,Jakarta Timur,kramat jati,cawang,3,10,70,74.2,253.0
+20.0,5,Jakarta Timur,kramat jati,cawang,5,10,70,99.4,207.0
+21.0,5,Jakarta Timur,kramat jati,cawang,5,10,70,127.6,160.0
+20.0,5,Jakarta Timur,kramat jati,cawang,8,10,70,116.9,266.0
+21.0,5,Jakarta Timur,kramat jati,cawang,8,10,70,121.9,156.0
+21.0,5,Jakarta Timur,kramat jati,cililitan,6,10,30,49.8,150.0
+21.0,5,Jakarta Timur,kramat jati,cililitan,7,10,30,40.2,132.0
+25.0,6,Jakarta Selatan,pasar minggu,pejaten timur,5,10,30,57.5,172.0
+25.0,6,Jakarta Selatan,pasar minggu,pejaten timur,6,10,30,61.1,182.0
+25.0,6,Jakarta Selatan,pasar minggu,pejaten timur,7,10,30,81.9,121.0
+25.0,6,Jakarta Selatan,pasar minggu,pejaten timur,8,10,30,26.2,90.0
+25.0,6,Jakarta Selatan,pancoran,pengadegan,1,10,15,79.3,116.0
+25.0,6,Jakarta Selatan,kebayoran lama,pondok pinang,5,30,60,94.3,168.0
+25.0,6,Jakarta Selatan,kebayoran lama,cipulir,10,10,30,51.5,201.0
+24.0,6,Jakarta Timur,jatinegara,kampung melayu,4,10,100,92.3,230.0
+25.0,6,Jakarta Timur,jatinegara,kampung melayu,4,10,100,79.4,210.0
+24.0,6,Jakarta Timur,jatinegara,kampung melayu,5,10,100,129.0,232.0
+25.0,6,Jakarta Timur,jatinegara,kampung melayu,5,10,100,114.0,171.0
+24.0,6,Jakarta Timur,jatinegara,kampung melayu,6,10,100,86.7,186.0
+25.0,6,Jakarta Timur,jatinegara,kampung melayu,6,10,100,86.6,273.0
+24.0,6,Jakarta Timur,jatinegara,kampung melayu,7,10,100,105.8,199.0
+25.0,6,Jakarta Timur,jatinegara,kampung melayu,7,10,100,145.9,183.0
+24.0,6,Jakarta Timur,jatinegara,kampung melayu,8,10,100,107.3,246.0
+25.0,6,Jakarta Timur,jatinegara,kampung melayu,8,10,100,82.4,272.0
+25.0,6,Jakarta Timur,jatinegara,bidara cina,7,50,75,118.8,276.0
+25.0,6,Jakarta Timur,jatinegara,bidara cina,11,50,75,118.3,287.0
+24.0,6,Jakarta Timur,kramat jati,cawang,3,10,20,0.0,75.0
+25.0,6,Jakarta Timur,kramat jati,cawang,3,10,20,51.4,48.0
+24.0,6,Jakarta Timur,kramat jati,cawang,5,10,20,47.9,165.0
+25.0,6,Jakarta Timur,kramat jati,cawang,5,10,20,66.4,92.0
+24.0,6,Jakarta Timur,kramat jati,cawang,8,10,20,89.5,95.0
+25.0,6,Jakarta Timur,kramat jati,cawang,8,10,20,75.0,158.0
+25.0,6,Jakarta Timur,kramat jati,cililitan,7,10,30,54.6,142.0
+29.0,10,Jakarta Pusat,sawah besar,gunung sahari utara,1,10,40,45.4,153.0
+29.0,10,Jakarta Barat,cengkareng,Rawa Buaya,3,20,30,119.0,222.0
+29.0,10,Jakarta Barat,cengkareng,Rawa Buaya,11,20,30,68.7,109.0
+23.0,10,Jakarta Timur,jatinegara,kampung melayu,4,30,80,112.8,262.0
+29.0,10,Jakarta Timur,jatinegara,kampung melayu,4,30,80,112.0,227.0
+23.0,10,Jakarta Timur,jatinegara,kampung melayu,5,30,80,116.5,236.0
+29.0,10,Jakarta Timur,jatinegara,kampung melayu,5,30,80,109.6,286.0
+29.0,10,Jakarta Timur,jatinegara,bidara cina,7,50,60,101.0,245.0
+29.0,10,Jakarta Timur,jatinegara,bidara cina,11,50,60,101.6,247.0
+29.0,10,Jakarta Timur,kramat jati,cawang,1,10,50,74.3,193.0
+29.0,10,Jakarta Timur,kramat jati,cawang,2,10,50,64.1,135.0
+29.0,10,Jakarta Timur,kramat jati,cawang,3,10,50,60.7,116.0
+29.0,10,Jakarta Timur,kramat jati,cawang,5,10,50,77.1,108.0
+26.0,11,Jakarta Utara,penjaringan,pluit,22,2,15,37.7,7.0
+29.0,11,Jakarta Utara,penjaringan,pluit,22,2,15,72.8,168.0
+26.0,11,Jakarta Utara,penjaringan,kamal muara,4,5,10,0.0,38.0
+27.0,11,Jakarta Utara,penjaringan,kamal muara,4,5,10,63.1,74.0
+27.0,11,Jakarta Barat,kalideres,kamal,1,5,30,81.2,101.0
+28.0,11,Jakarta Barat,kalideres,kamal,1,5,30,14.8,125.0
+29.0,11,Jakarta Barat,kalideres,kamal,1,5,30,49.4,145.0
+9.0,11,Jakarta Selatan,kebayoran lama,pondok pinang,5,10,20,45.1,139.0
+12.0,11,Jakarta Selatan,pasar minggu,pejaten timur,5,10,30,31.8,97.0
+12.0,11,Jakarta Selatan,pasar minggu,pejaten timur,6,10,30,44.4,113.0
+12.0,11,Jakarta Selatan,pasar minggu,pejaten timur,8,10,30,37.8,131.0
+28.0,11,Jakarta Selatan,pasar minggu,cilandak timur,3,10,30,95.0,110.0
+28.0,11,Jakarta Selatan,pasar minggu,cilandak timur,9,10,30,78.7,184.0
+28.0,11,Jakarta Selatan,cilandak,gandaria selatan,5,60,70,152.9,275.0
+28.0,11,Jakarta Selatan,cilandak,gandaria selatan,7,60,70,141.9,284.0
+28.0,11,Jakarta Selatan,pesanggrahan,ulujami,1,40,70,89.9,252.0
+11.0,11,Jakarta Timur,Makasar,cipinang melayu,3,30,50,79.5,227.0
+11.0,11,Jakarta Timur,Makasar,cipinang melayu,4,30,50,99.8,187.0
+11.0,11,Jakarta Timur,jatinegara,cipinang muara,13,60,80,110.6,218.0
+12.0,11,Jakarta Timur,jatinegara,kampung melayu,4,10,100,126.8,241.0
+12.0,11,Jakarta Timur,jatinegara,kampung melayu,5,10,100,107.7,199.0
+12.0,11,Jakarta Timur,jatinegara,kampung melayu,7,10,100,105.0,204.0
+12.0,11,Jakarta Timur,jatinegara,kampung melayu,8,10,100,126.7,248.0
+12.0,11,Jakarta Timur,jatinegara,bidara cina,7,20,60,98.9,230.0
+12.0,11,Jakarta Timur,jatinegara,bidara cina,11,20,60,82.8,181.0
+11.0,11,Jakarta Timur,ciracas,rambutan,5,10,30,83.2,132.0
+12.0,11,Jakarta Timur,kramat jati,cawang,2,10,50,53.4,218.0
+12.0,11,Jakarta Timur,kramat jati,cawang,3,10,50,87.3,160.0
+12.0,11,Jakarta Timur,kramat jati,cawang,5,10,50,86.9,254.0
+12.0,11,Jakarta Timur,kramat jati,cawang,8,10,50,68.8,173.0
+29.0,11,Jakarta Timur,cakung,jatinegara,8,10,15,55.3,27.0
+29.0,11,Jakarta Timur,cakung,rawa terate,5,5,20,23.7,128.0
+4.0,12,Jakarta Utara,penjaringan,pluit,22,5,10,59.7,98.0
+5.0,12,Jakarta Utara,penjaringan,pluit,22,5,10,37.6,134.0
+7.0,12,Jakarta Utara,penjaringan,pluit,22,5,10,30.8,109.0
+4.0,12,Jakarta Utara,penjaringan,kamal muara,4,3,10,60.7,74.0
+5.0,12,Jakarta Utara,penjaringan,kamal muara,4,3,10,25.7,31.0
+6.0,12,Jakarta Utara,penjaringan,kamal muara,4,3,10,11.6,71.0
+7.0,12,Jakarta Utara,penjaringan,kamal muara,4,3,10,8.6,45.0
+8.0,12,Jakarta Utara,penjaringan,kamal muara,4,3,10,51.9,56.0
+11.0,12,Jakarta Utara,penjaringan,kamal muara,4,3,10,14.1,103.0
+13.0,12,Jakarta Utara,penjaringan,kamal muara,4,3,10,74.8,146.0
+7.0,12,Jakarta Utara,penjaringan,penjaringan,17,5,10,0.0,98.0
+4.0,12,Jakarta Barat,kalideres,kamal,1,6,10,75.9,36.0
+5.0,12,Jakarta Barat,kalideres,kamal,1,6,10,46.2,102.0
+6.0,12,Jakarta Barat,kalideres,kamal,1,6,10,40.1,132.0
+11.0,12,Jakarta Barat,kalideres,kamal,1,6,10,31.1,60.0
+12.0,12,Jakarta Barat,kalideres,kamal,1,6,10,50.0,79.0
+12.0,12,Jakarta Barat,cengkareng,rawa buaya,1,15,60,85.5,173.0
+12.0,12,Jakarta Barat,cengkareng,rawa buaya,2,15,60,108.3,141.0
+12.0,12,Jakarta Barat,cengkareng,rawa buaya,3,15,60,88.5,198.0
+12.0,12,Jakarta Barat,cengkareng,rawa buaya,4,15,60,89.3,168.0
+12.0,12,Jakarta Barat,cengkareng,rawa buaya,7,15,60,79.0,189.0
+12.0,12,Jakarta Barat,cengkareng,rawa buaya,8,15,60,85.1,137.0
+12.0,12,Jakarta Barat,cengkareng,rawa buaya,11,15,60,92.4,155.0
+12.0,12,Jakarta Barat,cengkareng,cengkareng timur,3,20,30,33.3,164.0
+12.0,12,Jakarta Barat,cengkareng,duri kosambi,4,10,40,40.5,120.0
+12.0,12,Jakarta Barat,cengkareng,duri kosambi,5,10,40,82.4,204.0
+12.0,12,Jakarta Barat,cengkareng,duri kosambi,6,10,40,70.9,119.0
+12.0,12,Jakarta Barat,kembangan,kembangan utara,1,50,50,101.3,219.0
+4.0,12,Jakarta Selatan,cilandak,cilandak barat,2,20,60,90.4,217.0
+4.0,12,Jakarta Selatan,cilandak,cilandak barat,6,20,60,97.0,123.0
+13.0,12,Jakarta Selatan,cilandak,pondok labu,7,20,60,79.2,110.0
+10.0,12,Jakarta Selatan,pancoran,kalibata,9,30,30,59.4,89.0
+10.0,12,Jakarta Selatan,pancoran,duren tiga,5,70,70,138.9,321.0
+10.0,12,Jakarta Selatan,mampang prapatan,bangka,2,50,80,107.9,233.0
+13.0,12,Jakarta Selatan,mampang prapatan,bangka,2,50,80,135.7,357.0
+10.0,12,Jakarta Selatan,mampang prapatan,bangka,3,50,80,93.4,232.0
+13.0,12,Jakarta Selatan,mampang prapatan,bangka,3,50,80,148.1,262.0
+10.0,12,Jakarta Selatan,mampang prapatan,bangka,4,50,80,137.0,317.0
+13.0,12,Jakarta Selatan,mampang prapatan,bangka,4,50,80,132.6,335.0
+10.0,12,Jakarta Selatan,kebayoran baru,petogogan,1,10,40,87.2,217.0
+12.0,12,Jakarta Selatan,kebayoran baru,petogogan,1,10,40,100.8,183.0
+13.0,12,Jakarta Selatan,kebayoran baru,petogogan,1,10,40,87.8,176.0
+10.0,12,Jakarta Selatan,kebayoran baru,petogogan,2,10,40,30.7,159.0
+12.0,12,Jakarta Selatan,kebayoran baru,petogogan,2,10,40,41.9,166.0
+13.0,12,Jakarta Selatan,kebayoran baru,petogogan,2,10,40,55.0,113.0
+10.0,12,Jakarta Selatan,kebayoran baru,petogogan,3,10,40,68.0,102.0
+12.0,12,Jakarta Selatan,kebayoran baru,petogogan,3,10,40,77.9,135.0
+13.0,12,Jakarta Selatan,kebayoran baru,petogogan,3,10,40,53.0,128.0
+10.0,12,Jakarta Selatan,kebayoran baru,petogogan,5,10,40,71.2,117.0
+12.0,12,Jakarta Selatan,kebayoran baru,petogogan,5,10,40,52.4,163.0
+13.0,12,Jakarta Selatan,kebayoran baru,petogogan,5,10,40,55.3,173.0
+13.0,12,Jakarta Selatan,kebayoran baru,cipete utara,6,20,40,46.9,154.0
+13.0,12,Jakarta Selatan,pasar minggu,cilandak timur,1,10,100,94.0,284.0
+13.0,12,Jakarta Selatan,pasar minggu,cilandak timur,3,10,100,85.5,179.0
+13.0,12,Jakarta Selatan,kebayoran lama,cipulir,10,30,80,93.0,217.0
+11.0,12,Jakarta Selatan,pesanggrahan,ulujami,1,20,40,96.1,121.0
+3.0,12,Jakarta Timur,cakung,rawa terate,5,10,100,93.5,150.0
+3.0,12,Jakarta Timur,cakung,cakung timur,9,20,20,112.6,117.0
+6.0,12,Jakarta Timur,makasar,cipinang melayu,4,10,30,69.9,115.0
+11.0,12,Jakarta Timur,ciracas,rambutan,3,10,50,78.7,211.0
+11.0,12,Jakarta Timur,ciracas,rambutan,5,10,50,57.8,175.0
