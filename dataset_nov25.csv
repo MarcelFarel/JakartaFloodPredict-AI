@@ -1,501 +1,760 @@
-waterLevel_cm,rainFall_mm,rainDuration_minutes
-"37,35","131,09","215,49"
-"72,38","332,75","170,11"
-"57,33","256,2","106,67"
-"55,52","209,53","247,86"
-"22,63","54,61","211,72"
-"16,36","54,6","65,53"
-"19,49","20,33","275,06"
-"74,07","303,16","250,31"
-"56,23","210,39","285,94"
-"57,4","247,83","223,2"
-"11,89","7,2","191,76"
-"75,16","339,47","137,11"
-"72,87","291,35","281,16"
-"25,44","74,32","262,5"
-"12,2","63,64","32,66"
-"16,31","64,19","27,38"
-"27,49","106,48","125,41"
-"50,44","183,66","246,95"
-"45,11","151,18","296,44"
-"23,55","101,93","62,12"
-"54,02","214,15","186,36"
-"15,06","48,82","126,65"
-"35,22","102,25","291,58"
-"37,51","128,23","255,79"
-"43,79","159,62","254,73"
-"61,91","274,81","151,23"
-"21,23","69,89","136,15"
-"39,87","179,98","96,55"
-"45,77","207,35","35,79"
-"14,57","16,26","262,12"
-"54,54","212,64","247,61"
-"26,05","59,68","299,92"
-"22,4","22,77","299,06"
-"75,59","332,11","175,52"
-"81,42","337,97","235,32"
-"67,84","282,94","284,53"
-"34,75","106,61","257,9"
-"13,08","34,19","89,26"
-"55,37","239,48","146,15"
-"35,75","154,05","56,16"
-"21,86","42,71","287,13"
-"46,97","173,31","189,73"
-"11,21","12,04","84,02"
-"73,33","318,26","208,08"
-"26,88","90,57","193,08"
-"55,3","231,88","120,29"
-"27,57","109,1","51,8"
-"45,76","182,02","208,04"
-"45,71","191,35","165,69"
-"24,19","64,7","236,25"
-"73,46","339,35","165,65"
-"65,35","271,3","258,61"
-"72,48","328,82","174,53"
-"69,96","313,19","177,06"
-"55,06","209,26","265,46"
-"71,65","322,66","132,98"
-"12,17","30,97","57,52"
-"13,13","68,59","28,06"
-"16,71","15,83","231,44"
-"32,03","113,87","193,69"
-"37,97","136,04","217,14"
-"24,33","94,97","79,63"
-"58,68","290,06","58,18"
-"26,94","124,86","24,07"
-"25,91","98,33","118,16"
-"48,23","189,94","185,18"
-"16,93","49,32","129,83"
-"68,19","280,77","142,49"
-"17,6","26,09","273,16"
-"73,9","345,41","117,51"
-"61,01","270,29","163,92"
-"24,77","69,55","239,42"
-"5,66","1,93","131,03"
-"69,17","285,41","194,18"
-"65,39","247,4","261,46"
-"64,18","255,15","285,87"
-"55,38","269,94","61,18"
-"20,1","25,92","279,44"
-"31,88","125,46","157,79"
-"13,99","40,55","92,31"
-"68,25","302,09","148,56"
-"55,32","218,15","294,41"
-"34,15","115,81","157,93"
-"13,64","22,25","112,05"
-"30,41","108,84","197,35"
-"26,35","113,81","87,24"
-"53,71","255,36","41,24"
-"48,1","223,15","56,09"
-"66,21","310,52","55,85"
-"40,2","165,28","62,53"
-"10,96","41,86","58,87"
-"58,3","249,64","199,44"
-"54,04","266,27","70,93"
-"43,67","196,45","116,79"
-"67,46","269,84","271,1"
-"45,79","172,83","152,71"
-"45,9","182,96","206,92"
-"33,79","149,64","68,25"
-"5,44","8,9","73,84"
-"11,5","37,76","31,44"
-"10,62","11,0","67,3"
-"48,39","222,74","98,01"
-"24,5","110,02","69,56"
-"39,93","178,0","44,84"
-"67,58","317,65","53,78"
-"28,59","87,25","149,02"
-"33,78","143,63","77,77"
-"58,27","264,44","122,0"
-"25,25","80,08","160,96"
-"18,27","26,94","213,31"
-"23,47","101,41","31,01"
-"24,49","56,43","243,83"
-"77,0","325,39","195,81"
-"61,05","282,84","42,89"
-"60,33","221,69","264,6"
-"76,19","305,01","277,84"
-"57,78","281,29","37,1"
-"18,23","65,3","97,53"
-"77,18","312,4","245,74"
-"47,6","188,77","229,51"
-"60,84","282,6","71,67"
-"65,87","313,63","78,62"
-"28,5","111,3","123,73"
-"18,04","38,52","155,67"
-"25,99","79,78","193,11"
-"36,16","149,49","123,3"
-"62,02","286,31","149,51"
-"73,21","301,26","229,29"
-"3,29","2,43","30,27"
-"44,61","178,76","90,68"
-"39,59","146,09","219,74"
-"29,52","77,74","270,66"
-"17,05","41,95","163,27"
-"35,24","118,17","168,99"
-"68,31","330,02","50,01"
-"30,45","113,12","145,28"
-"45,99","181,58","169,13"
-"53,98","246,06","87,89"
-"29,33","127,27","95,39"
-"74,69","340,12","125,64"
-"70,8","336,86","25,62"
-"21,08","88,12","110,18"
-"39,03","174,04","79,21"
-"25,25","105,31","111,7"
-"25,01","99,69","53,53"
-"13,0","12,91","269,35"
-"50,86","213,35","186,21"
-"46,45","175,94","210,15"
-"18,78","18,02","240,97"
-"27,35","97,53","159,56"
-"64,69","317,89","44,34"
-"29,05","83,85","170,39"
-"16,46","50,71","184,32"
-"41,3","171,31","228,72"
-"76,92","344,98","140,86"
-"18,73","84,72","55,72"
-"49,98","235,25","99,46"
-"60,81","266,57","121,66"
-"27,17","83,17","200,86"
-"58,84","254,88","179,82"
-"29,17","128,72","119,71"
-"60,82","221,31","296,22"
-"55,13","221,74","189,62"
-"41,63","187,52","86,42"
-"12,44","31,6","48,5"
-"59,47","292,36","62,8"
-"23,85","112,27","88,87"
-"14,92","65,28","64,99"
-"6,38","14,27","72,24"
-"46,84","206,81","99,83"
-"50,37","237,15","68,54"
-"15,42","5,81","271,09"
-"35,47","179,23","42,47"
-"27,09","79,27","166,86"
-"51,74","225,81","134,91"
-"29,19","61,03","295,07"
-"51,62","241,83","51,37"
-"34,55","135,36","131,4"
-"81,28","327,86","291,45"
-"23,64","48,13","262,34"
-"37,6","119,37","248,78"
-"15,21","39,72","92,21"
-"68,51","323,64","67,85"
-"73,19","307,07","207,22"
-"31,89","90,28","280,23"
-"57,87","230,99","175,89"
-"64,86","286,03","180,05"
-"47,39","194,32","98,39"
-"48,77","185,38","235,46"
-"17,69","84,65","72,37"
-"12,3","32,59","110,63"
-"68,4","314,03","139,12"
-"72,82","315,15","162,13"
-"47,41","221,59","87,87"
-"25,45","118,66","52,15"
-"30,21","122,22","190,97"
-"54,95","254,08","100,82"
-"67,09","313,99","182,75"
-"62,09","310,48","63,22"
-"63,85","272,96","154,72"
-"54,97","224,71","169,13"
-"8,47","29,45","34,51"
-"15,09","56,57","114,25"
-"65,69","314,49","57,64"
-"44,33","212,25","37,74"
-"13,19","3,22","297,19"
-"15,62","35,52","110,26"
-"60,54","232,23","246,76"
-"4,48","1,77","91,3"
-"21,85","56,28","210,82"
-"50,47","192,06","232,86"
-"53,69","242,16","186,78"
-"52,75","228,19","152,04"
-"21,1","78,49","135,32"
-"53,73","249,26","117,68"
-"30,06","83,04","280,27"
-"39,0","113,89","252,57"
-"68,05","261,27","290,21"
-"47,07","227,37","54,8"
-"71,82","297,23","224,64"
-"62,97","230,16","282,74"
-"45,17","198,91","70,75"
-"8,61","32,79","38,62"
-"35,82","128,7","227,51"
-"29,0","92,82","180,85"
-"30,65","85,4","255,71"
-"72,86","340,55","59,14"
-"40,92","137,58","242,67"
-"68,37","312,22","76,46"
-"46,4","220,9","65,82"
-"61,57","278,18","65,99"
-"47,98","175,92","248,08"
-"54,85","201,92","206,26"
-"41,42","172,38","166,46"
-"23,16","68,34","120,47"
-"64,25","252,86","265,62"
-"24,85","98,27","129,88"
-"13,17","8,51","248,65"
-"51,69","225,92","142,96"
-"19,52","61,99","125,54"
-"74,36","329,16","149,55"
-"70,85","333,88","104,39"
-"75,46","320,2","229,33"
-"38,23","129,56","160,76"
-"8,79","5,41","85,02"
-"79,45","324,91","271,88"
-"36,42","149,86","127,49"
-"76,52","338,33","172,19"
-"82,37","337,27","273,81"
-"67,4","298,55","194,79"
-"22,73","103,06","52,73"
-"37,78","134,78","283,15"
-"70,17","297,9","195,76"
-"29,17","110,92","113,77"
-"13,85","59,32","59,0"
-"54,24","194,88","242,33"
-"72,76","327,65","193,62"
-"54,26","243,61","169,37"
-"53,87","199,52","270,29"
-"20,94","34,01","240,81"
-"49,54","215,25","62,47"
-"73,75","346,52","107,28"
-"16,44","49,03","89,58"
-"47,62","181,42","228,3"
-"62,54","307,08","29,39"
-"62,6","259,27","179,57"
-"61,77","243,96","233,49"
-"59,3","245,87","265,49"
-"33,91","125,82","115,78"
-"35,81","102,76","249,95"
-"57,95","283,28","50,98"
-"70,35","283,54","257,01"
-"64,47","303,48","55,7"
-"71,01","319,63","131,24"
-"46,86","178,97","243,24"
-"36,86","175,53","61,98"
-"60,04","279,4","84,19"
-"58,95","227,49","222,23"
-"61,31","245,69","221,61"
-"64,94","278,53","199,52"
-"74,56","311,5","214,31"
-"26,56","118,3","171,96"
-"33,11","131,45","90,5"
-"8,94","32,89","116,79"
-"43,3","202,4","70,85"
-"13,99","12,58","274,37"
-"39,17","162,96","183,35"
-"46,92","189,93","132,24"
-"26,59","100,29","149,36"
-"56,31","206,79","285,24"
-"5,19","10,68","62,94"
-"12,78","13,07","184,14"
-"65,82","287,91","161,65"
-"32,21","126,07","191,21"
-"12,14","44,47","25,07"
-"48,78","182,79","264,19"
-"64,84","269,5","280,99"
-"23,16","75,54","178,24"
-"57,36","218,01","215,06"
-"21,59","29,87","278,3"
-"13,82","18,09","218,03"
-"39,63","185,97","62,71"
-"46,27","189,22","181,36"
-"58,27","223,1","189,88"
-"58,53","254,13","138,76"
-"80,48","341,55","226,2"
-"52,28","180,71","281,62"
-"37,04","113,03","279,16"
-"62,46","278,32","146,24"
-"21,15","94,79","51,71"
-"45,37","153,64","295,76"
-"18,16","27,46","254,89"
-"5,98","8,87","54,91"
-"81,38","336,93","277,84"
-"73,16","292,59","263,57"
-"56,82","243,59","165,27"
-"38,06","143,13","185,56"
-"14,72","60,65","131,72"
-"14,55","54,75","35,33"
-"23,9","87,59","113,86"
-"52,68","192,23","244,8"
-"45,29","250,11","21,3"
-"56,06","231,07","113,38"
-"25,89","97,98","131,49"
-"77,58","334,2","170,47"
-"63,45","258,26","277,56"
-"45,88","194,02","116,98"
-"46,57","214,1","117,15"
-"39,45","146,86","226,5"
-"28,5","86,71","146,62"
-"28,68","124,59","82,89"
-"60,82","265,25","146,68"
-"5,72","5,04","59,44"
-"12,59","40,63","69,39"
-"11,5","16,1","159,54"
-"10,45","14,26","137,3"
-"78,5","299,41","276,16"
-"55,21","246,28","121,47"
-"42,72","165,96","182,56"
-"18,8","34,24","197,03"
-"37,81","172,07","23,67"
-"45,81","165,72","205,79"
-"16,89","60,62","69,85"
-"42,54","151,85","289,1"
-"34,24","139,48","61,63"
-"47,62","215,55","136,09"
-"47,26","222,28","43,9"
-"16,62","15,86","299,12"
-"34,13","131,11","160,61"
-"53,8","219,05","186,71"
-"37,8","176,1","38,78"
-"72,3","299,77","229,99"
-"53,27","230,54","78,77"
-"25,89","57,03","271,46"
-"8,32","24,7","77,44"
-"50,57","224,85","73,39"
-"5,75","9,28","30,23"
-"46,16","205,02","152,18"
-"75,92","329,08","178,16"
-"43,61","201,42","38,4"
-"38,43","135,86","237,15"
-"55,13","225,15","146,92"
-"40,12","160,39","166,83"
-"45,62","190,97","143,41"
-"72,17","329,51","132,21"
-"35,89","135,14","176,7"
-"68,26","336,42","63,47"
-"64,04","316,87","70,94"
-"29,96","68,53","261,3"
-"17,41","24,28","284,91"
-"11,3","35,27","124,53"
-"1,76","6,38","95,81"
-"15,35","33,06","200,32"
-"51,89","239,05","134,45"
-"9,62","24,92","27,11"
-"27,53","111,64","63,72"
-"68,79","295,71","220,47"
-"16,36","8,15","204,5"
-"60,36","285,06","27,59"
-"23,19","98,65","82,15"
-"7,51","41,36","84,7"
-"63,76","243,86","208,13"
-"42,52","220,13","25,52"
-"60,59","307,12","49,15"
-"65,7","257,27","243,98"
-"64,62","281,22","69,99"
-"32,65","98,71","202,77"
-"17,88","62,1","86,69"
-"56,12","262,72","47,84"
-"62,59","282,39","88,09"
-"81,96","346,68","222,23"
-"42,43","144,42","259,6"
-"38,87","130,21","252,46"
-"60,78","271,74","131,21"
-"32,7","119,28","207,06"
-"68,46","325,77","77,4"
-"61,81","300,44","102,08"
-"43,38","150,15","270,97"
-"51,77","262,8","23,64"
-"52,81","264,09","43,94"
-"11,49","36,09","78,21"
-"67,33","315,89","27,43"
-"40,74","176,84","70,8"
-"63,87","289,26","183,25"
-"27,32","112,02","138,0"
-"78,07","313,43","269,95"
-"37,72","136,22","248,88"
-"6,09","3,79","115,71"
-"69,11","316,88","92,64"
-"10,77","31,95","126,31"
-"31,83","111,76","185,28"
-"68,59","332,52","95,06"
-"75,08","332,71","194,76"
-"47,51","200,7","134,64"
-"49,77","221,14","174,57"
-"39,38","156,96","142,12"
-"25,61","102,62","102,45"
-"38,39","115,03","285,57"
-"59,21","235,38","233,81"
-"58,36","263,33","59,23"
-"68,82","277,05","263,17"
-"62,24","276,37","156,48"
-"20,15","31,92","270,47"
-"47,89","173,05","243,96"
-"11,08","20,15","139,06"
-"39,86","192,34","26,29"
-"34,26","154,54","95,23"
-"69,4","310,7","171,66"
-"31,63","122,82","197,37"
-"16,3","40,97","92,21"
-"10,47","50,05","59,02"
-"64,61","266,53","253,78"
-"56,62","216,38","295,63"
-"17,23","35,39","167,19"
-"8,7","29,44","68,07"
-"56,38","245,34","96,25"
-"5,0","25,47","25,15"
-"71,89","287,65","276,0"
-"50,41","247,18","52,97"
-"19,06","28,47","181,42"
-"8,4","29,69","96,74"
-"78,44","345,32","175,17"
-"37,59","130,99","202,4"
-"39,39","129,72","252,33"
-"60,42","284,48","77,8"
-"67,2","331,54","23,08"
-"72,02","345,1","58,33"
-"66,04","263,68","272,01"
-"41,5","131,69","264,69"
-"19,63","29,23","187,28"
-"62,69","272,0","188,14"
-"46,66","195,44","206,21"
-"32,97","148,48","69,1"
-"82,41","317,22","276,04"
-"13,04","38,92","137,26"
-"44,13","172,42","127,28"
-"12,42","3,97","165,3"
-"33,36","164,03","33,15"
-"8,41","19,71","66,56"
-"22,91","41,59","226,65"
-"9,63","41,13","43,18"
-"54,48","227,22","188,88"
-"55,49","261,12","88,7"
-"45,26","204,18","129,0"
-"71,1","336,76","100,83"
-"29,77","131,2","119,59"
-"31,13","100,0","221,33"
-"64,42","304,01","103,19"
-"25,05","78,26","178,59"
-"71,98","337,13","153,29"
-"11,8","4,25","205,83"
-"83,67","339,46","282,31"
-"10,29","15,11","225,12"
-"67,14","311,9","80,18"
-"40,83","184,7","28,73"
-"71,76","347,54","93,43"
-"17,84","25,83","186,62"
-"41,33","193,85","34,4"
-"74,39","339,26","158,98"
-"45,86","183,08","187,12"
-"50,85","220,29","113,59"
-"60,65","243,51","235,86"
-"35,39","159,09","49,85"
-"44,14","219,65","41,04"
-"52,44","204,51","223,89"
-"68,19","315,41","158,74"
-"13,6","15,91","212,75"
-"24,95","98,34","141,75"
-"69,51","332,64","88,99"
-"77,26","311,59","249,35"
-"46,27","159,48","243,84"
-"55,35","217,05","214,52"
-"22,04","97,08","96,2"
-"21,8","65,84","185,26"
-"40,94","162,29","121,07"
-"27,3","123,67","45,64"
-"59,34","204,28","276,85"
-"9,14","27,21","58,31"
-"82,9","341,04","286,07"
-"75,66","345,17","144,88"
+tgl_kejadian;bulan_kejadian;kota_administrasi;kecamatan;kelurahan;rw;ketinggian_air_min_cm;ketinggian_air_max_cm;rainFall_mm;rainDuration_minutes
+2.0;1;Jakarta Utara;penjaringan;kamal muara;1;20;30;77.4;163.0
+2.0;1;Jakarta Utara;penjaringan;kamal muara;4;20;30;64.7;112.0
+3.0;1;Jakarta Barat;kalideres;kamal;1;10;25;69.2;117.0
+4.0;1;Jakarta Barat;kalideres;kamal;1;10;25;86.7;215.0
+5.0;1;Jakarta Barat;kalideres;kamal;1;10;25;51.6;109.0
+18.0;1;Jakarta Barat;kalideres;kamal;1;10;25;51.6;158.0
+31.0;1;Jakarta Barat;kalideres;kamal;1;10;25;87.8;84.0
+3.0;1;Jakarta Barat;kalideres;kamal;4;10;25;71.6;111.0
+4.0;1;Jakarta Barat;kalideres;kamal;4;10;25;46.9;183.0
+5.0;1;Jakarta Barat;kalideres;kamal;4;10;25;67.1;87.0
+18.0;1;Jakarta Barat;kalideres;kamal;4;10;25;47.0;185.0
+31.0;1;Jakarta Barat;kalideres;kamal;4;10;25;46.9;141.0
+3.0;1;Jakarta Barat;grogol petamburan;jelambar baru;1;15;15;57.3;83.0
+3.0;1;Jakarta Barat;grogol petamburan;jelambar;7;20;20;21.7;145.0
+18.0;1;Jakarta Barat;kembangan;kembangan utara;3;5;20;14.3;136.0
+18.0;1;Jakarta Barat;kembangan;kembangan utara;4;5;20;37.5;122.0
+18.0;1;Jakarta Barat;kembangan;kembangan utara;5;5;20;28.5;35.0
+18.0;1;Jakarta Barat;kembangan;kembangan utara;6;5;20;55.0;68.0
+18.0;1;Jakarta Barat;cengkareng;kapuk;2;5;30;38.1;103.0
+18.0;1;Jakarta Barat;cengkareng;kapuk;5;5;30;28.0;110.0
+18.0;1;Jakarta Barat;cengkareng;kapuk;6;5;30;85.6;137.0
+18.0;1;Jakarta Barat;cengkareng;kapuk;7;5;30;51.7;120.0
+18.0;1;Jakarta Barat;cengkareng;kapuk;9;5;30;57.6;59.0
+18.0;1;Jakarta Barat;cengkareng;kapuk;12;5;30;27.8;128.0
+18.0;1;Jakarta Barat;cengkareng;kapuk;13;5;30;45.4;137.0
+18.0;1;Jakarta Barat;cengkareng;kapuk;15;5;30;58.5;135.0
+18.0;1;Jakarta Barat;cengkareng;kapuk;16;5;30;33.2;156.0
+18.0;1;Jakarta Barat;cengkareng;rawa buaya;1;15;20;63.8;146.0
+18.0;1;Jakarta Barat;cengkareng;rawa buaya;2;15;20;44.2;131.0
+18.0;1;Jakarta Barat;cengkareng;cengkareng timur;3;10;40;61.7;132.0
+18.0;1;Jakarta Barat;cengkareng;cengkareng timur;4;10;40;55.5;69.0
+18.0;1;Jakarta Barat;cengkareng;cengkareng timur;12;10;40;104.5;152.0
+18.0;1;Jakarta Barat;cengkareng;cengkareng timur;13;10;40;67.2;143.0
+15.0;2;Jakarta Pusat;cempaka putih;cempaka putih timur;5;10;35;42.6;138.0
+16.0;2;Jakarta Pusat;cempaka putih;cempaka putih timur;5;10;35;80.2;76.0
+15.0;2;Jakarta Pusat;cempaka putih;cempaka putih timur;7;10;35;39.3;84.0
+16.0;2;Jakarta Pusat;cempaka putih;cempaka putih timur;7;10;35;67.9;170.0
+15.0;2;Jakarta Pusat;cempaka putih;cempaka putih timur;8;10;35;24.6;126.0
+16.0;2;Jakarta Pusat;cempaka putih;cempaka putih timur;8;10;35;37.2;155.0
+15.0;2;Jakarta Pusat;kemayoran;serdang;1;10;50;78.9;151.0
+15.0;2;Jakarta Pusat;kemayoran;serdang;7;10;50;89.8;151.0
+1.0;2;Jakarta Utara;penjaringan;kamal muara;1;5;10;44.7;120.0
+15.0;2;Jakarta Utara;penjaringan;kamal muara;1;5;10;38.9;62.0
+1.0;2;Jakarta Utara;penjaringan;kamal muara;2;5;10;35.2;86.0
+15.0;2;Jakarta Utara;penjaringan;kamal muara;2;5;10;11.7;64.0
+1.0;2;Jakarta Utara;penjaringan;kamal muara;4;5;10;26.9;65.0
+15.0;2;Jakarta Utara;penjaringan;kamal muara;4;5;10;32.0;70.0
+15.0;2;Jakarta Utara;penjaringan;penjaringan;12;10;35;84.9;136.0
+15.0;2;Jakarta Utara;penjaringan;penjaringan;17;10;35;70.6;108.0
+15.0;2;Jakarta Utara;penjaringan;kapuk muara;1;5;15;9.7;140.0
+15.0;2;Jakarta Utara;cilincing;sukapura;1;10;50;81.5;114.0
+16.0;2;Jakarta Utara;cilincing;sukapura;1;10;50;67.3;143.0
+15.0;2;Jakarta Utara;cilincing;sukapura;10;10;50;61.5;132.0
+16.0;2;Jakarta Utara;cilincing;sukapura;10;10;50;87.2;208.0
+15.0;2;Jakarta Utara;kelapa gading;pegangsaan dua;3;60;70;148.1;263.0
+16.0;2;Jakarta Utara;kelapa gading;pegangsaan dua;3;60;70;146.1;296.0
+15.0;2;Jakarta Utara;koja;tugu selatan;4;40;40;73.2;121.0
+16.0;2;Jakarta Utara;koja;tugu selatan;4;40;40;83.8;191.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;1;20;30;74.1;171.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;1;20;30;87.0;138.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;1;20;30;57.9;178.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;1;20;30;63.8;114.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;2;20;30;45.4;191.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;2;20;30;43.6;227.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;2;20;30;83.8;120.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;2;20;30;94.6;117.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;3;20;30;66.1;193.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;3;20;30;87.6;198.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;3;20;30;74.7;114.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;3;20;30;54.6;118.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;4;20;30;74.7;124.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;4;20;30;98.3;81.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;4;20;30;66.8;98.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;4;20;30;98.8;95.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;5;20;30;15.1;104.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;5;20;30;83.9;134.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;5;20;30;69.2;144.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;5;20;30;61.5;197.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;6;20;30;69.3;95.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;6;20;30;27.7;174.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;6;20;30;63.1;126.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;6;20;30;74.6;133.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;7;20;30;97.1;162.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;7;20;30;57.1;90.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;7;20;30;51.3;150.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;7;20;30;57.5;142.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;8;20;30;85.8;155.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;8;20;30;74.1;147.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;8;20;30;56.9;233.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;8;20;30;77.8;109.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;9;20;30;69.4;114.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;9;20;30;86.9;110.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;9;20;30;53.5;113.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;9;20;30;60.9;110.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;10;20;30;59.7;183.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;10;20;30;38.2;192.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;10;20;30;73.4;112.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;10;20;30;72.7;102.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;11;20;30;67.6;154.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;11;20;30;62.8;113.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;11;20;30;39.2;160.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;11;20;30;59.1;143.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;12;20;30;60.6;74.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;12;20;30;51.5;197.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;12;20;30;64.3;207.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;12;20;30;75.6;110.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;13;20;30;105.2;119.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;13;20;30;71.0;146.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;13;20;30;72.7;148.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;13;20;30;66.0;161.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;14;20;30;29.1;215.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;14;20;30;67.0;128.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;14;20;30;68.7;103.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;14;20;30;116.8;80.0
+;2;Jakarta Barat;kalideres;tegal alur;15;20;30;63.7;106.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;15;20;30;73.5;134.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;15;20;30;66.8;207.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;15;20;30;44.1;114.0
+;2;Jakarta Barat;kalideres;tegal alur;16;20;30;90.4;144.0
+5.0;2;Jakarta Barat;kalideres;tegal alur;16;20;30;82.5;134.0
+15.0;2;Jakarta Barat;kalideres;tegal alur;16;20;30;83.3;183.0
+17.0;2;Jakarta Barat;kalideres;tegal alur;16;20;30;49.3;236.0
+15.0;2;Jakarta Barat;kalideres;kamal;1;30;50;118.1;159.0
+15.0;2;Jakarta Barat;kalideres;kamal;2;30;50;62.0;160.0
+15.0;2;Jakarta Barat;kalideres;kamal;3;30;50;101.7;222.0
+15.0;2;Jakarta Barat;kalideres;kamal;4;30;50;133.8;207.0
+15.0;2;Jakarta Barat;kalideres;kamal;5;30;50;70.2;254.0
+15.0;2;Jakarta Barat;kalideres;kamal;6;30;50;78.7;203.0
+15.0;2;Jakarta Barat;kalideres;kamal;7;30;50;92.0;166.0
+15.0;2;Jakarta Barat;kalideres;kamal;8;30;50;79.9;204.0
+15.0;2;Jakarta Barat;kalideres;kamal;9;30;50;59.0;224.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;1;5;60;80.1;190.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;1;5;60;57.5;178.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;2;5;60;88.2;200.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;2;5;60;60.4;204.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;3;5;60;109.7;213.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;3;5;60;63.1;183.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;4;5;60;72.3;151.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;4;5;60;95.0;163.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;5;5;60;54.1;206.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;5;5;60;83.3;125.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;6;5;60;104.9;172.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;6;5;60;46.6;142.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;7;5;60;82.4;159.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;7;5;60;83.9;209.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;9;5;60;94.4;165.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;9;5;60;54.0;159.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;10;5;60;52.3;103.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;10;5;60;89.2;187.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;11;5;60;84.7;183.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;11;5;60;83.8;244.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;12;5;60;85.7;145.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;12;5;60;65.1;166.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;13;5;60;83.4;167.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;13;5;60;84.6;221.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;15;5;60;64.5;154.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;15;5;60;116.1;169.0
+15.0;2;Jakarta Barat;cengkareng;kapuk;16;5;60;88.2;182.0
+16.0;2;Jakarta Barat;cengkareng;kapuk;16;5;60;54.9;165.0
+15.0;2;Jakarta Barat;cengkareng;rawa buaya;1;5;30;69.4;95.0
+15.0;2;Jakarta Barat;cengkareng;rawa buaya;2;5;30;36.8;120.0
+15.0;2;Jakarta Barat;cengkareng;rawa buaya;5;5;30;72.0;155.0
+15.0;2;Jakarta Barat;cengkareng;rawa buaya;11;5;30;79.4;71.0
+15.0;2;Jakarta Barat;cengkareng;duri kosambi;4;10;50;58.6;155.0
+16.0;2;Jakarta Barat;cengkareng;duri kosambi;4;10;50;94.3;122.0
+15.0;2;Jakarta Barat;cengkareng;cengkareng barat;4;10;80;105.8;243.0
+16.0;2;Jakarta Barat;cengkareng;cengkareng barat;4;10;80;113.9;134.0
+15.0;2;Jakarta Barat;cengkareng;cengkareng barat;6;10;80;135.4;173.0
+16.0;2;Jakarta Barat;cengkareng;cengkareng barat;6;10;80;92.6;210.0
+15.0;2;Jakarta Barat;cengkareng;cengkareng barat;9;10;80;82.4;258.0
+16.0;2;Jakarta Barat;cengkareng;cengkareng barat;9;10;80;79.7;192.0
+15.0;2;Jakarta Barat;cengkareng;cengkareng barat;10;10;80;81.2;173.0
+16.0;2;Jakarta Barat;cengkareng;cengkareng barat;10;10;80;96.0;270.0
+15.0;2;Jakarta Barat;cengkareng;cengkareng barat;11;10;80;104.3;137.0
+16.0;2;Jakarta Barat;cengkareng;cengkareng barat;11;10;80;103.0;107.0
+15.0;2;Jakarta Barat;cengkareng;cengkareng barat;16;10;80;114.0;213.0
+16.0;2;Jakarta Barat;cengkareng;cengkareng barat;16;10;80;97.8;175.0
+15.0;2;Jakarta Barat;cengkareng;cengkareng timur;3;10;80;126.6;154.0
+16.0;2;Jakarta Barat;cengkareng;cengkareng timur;3;10;80;92.2;223.0
+15.0;2;Jakarta Barat;cengkareng;cengkareng timur;12;10;80;151.9;205.0
+16.0;2;Jakarta Barat;cengkareng;cengkareng timur;12;10;80;110.0;172.0
+15.0;2;Jakarta Barat;cengkareng;cengkareng timur;13;10;80;80.4;144.0
+16.0;2;Jakarta Barat;cengkareng;cengkareng timur;13;10;80;76.1;230.0
+15.0;2;Jakarta Barat;cengkareng;cengkareng timur;14;10;80;107.1;221.0
+16.0;2;Jakarta Barat;cengkareng;cengkareng timur;14;10;80;93.0;191.0
+15.0;2;Jakarta Barat;cengkareng;cengkareng timur;16;10;80;111.8;269.0
+16.0;2;Jakarta Barat;cengkareng;cengkareng timur;16;10;80;107.0;152.0
+15.0;2;Jakarta Barat;kembangan;kembangan utara;4;15;30;62.3;66.0
+15.0;2;Jakarta Barat;kembangan;kembangan utara;10;15;30;46.8;100.0
+15.0;2;Jakarta Barat;kebon jeruk;duri kepa;1;15;60;56.0;171.0
+15.0;2;Jakarta Barat;kebon jeruk;duri kepa;2;15;60;77.3;182.0
+15.0;2;Jakarta Barat;kebon jeruk;duri kepa;3;15;60;103.4;163.0
+15.0;2;Jakarta Barat;kebon jeruk;duri kepa;4;15;60;90.5;187.0
+15.0;2;Jakarta Barat;kebon jeruk;duri kepa;10;15;60;61.3;122.0
+15.0;2;Jakarta Barat;grogol petamburan;wijaya kusuma;3;10;50;78.5;208.0
+16.0;2;Jakarta Barat;grogol petamburan;wijaya kusuma;3;10;50;82.7;147.0
+15.0;2;Jakarta Barat;grogol petamburan;wijaya kusuma;16;10;50;57.3;195.0
+16.0;2;Jakarta Barat;grogol petamburan;wijaya kusuma;16;10;50;78.1;164.0
+15.0;2;Jakarta Barat;grogol petamburan;jelambar baru;1;10;30;61.2;138.0
+16.0;2;Jakarta Barat;grogol petamburan;jelambar baru;1;10;30;37.1;143.0
+15.0;2;Jakarta Barat;palmerah;jati pulo;5;30;50;97.2;198.0
+16.0;2;Jakarta Barat;palmerah;jati pulo;5;30;50;101.2;206.0
+5.0;2;Jakarta Selatan;cilandak;pondok labu;3;40;50;119.2;248.0
+6.0;2;Jakarta Selatan;cilandak;pondok labu;3;40;50;118.6;203.0
+5.0;2;Jakarta Selatan;pancoran;pangadegan;1;10;300;234.9;553.0
+6.0;2;Jakarta Selatan;pancoran;pangadegan;1;10;300;243.7;521.0
+7.0;2;Jakarta Selatan;pancoran;pangadegan;1;10;300;272.8;583.0
+8.0;2;Jakarta Selatan;pancoran;pangadegan;1;10;300;272.8;498.0
+9.0;2;Jakarta Selatan;pancoran;pangadegan;1;10;300;272.8;597.0
+5.0;2;Jakarta Selatan;pancoran;pangadegan;2;10;300;339.6;523.0
+6.0;2;Jakarta Selatan;pancoran;pangadegan;2;10;300;273.9;468.0
+7.0;2;Jakarta Selatan;pancoran;pangadegan;2;10;300;285.2;530.0
+8.0;2;Jakarta Selatan;pancoran;pangadegan;2;10;300;281.6;498.0
+9.0;2;Jakarta Selatan;pancoran;pangadegan;2;10;300;275.5;559.0
+5.0;2;Jakarta Selatan;pancoran;rawa jati;1;10;250;218.7;424.0
+6.0;2;Jakarta Selatan;pancoran;rawa jati;1;10;250;240.2;432.0
+7.0;2;Jakarta Selatan;pancoran;rawa jati;1;10;250;209.5;374.0
+5.0;2;Jakarta Selatan;pancoran;rawa jati;3;10;250;220.3;432.0
+6.0;2;Jakarta Selatan;pancoran;rawa jati;3;10;250;215.3;353.0
+7.0;2;Jakarta Selatan;pancoran;rawa jati;3;10;250;226.6;387.0
+5.0;2;Jakarta Selatan;pancoran;rawa jati;7;10;250;271.3;480.0
+6.0;2;Jakarta Selatan;pancoran;rawa jati;7;10;250;187.7;481.0
+7.0;2;Jakarta Selatan;pancoran;rawa jati;7;10;250;238.7;467.0
+5.0;2;Jakarta Selatan;pasar minggu;pejaten timur;5;30;200;170.2;366.0
+6.0;2;Jakarta Selatan;pasar minggu;pejaten timur;5;30;200;193.1;403.0
+7.0;2;Jakarta Selatan;pasar minggu;pejaten timur;5;30;200;224.3;405.0
+25.0;2;Jakarta Selatan;pasar minggu;pejaten timur;5;30;200;203.8;359.0
+26.0;2;Jakarta Selatan;pasar minggu;pejaten timur;5;30;200;180.9;465.0
+5.0;2;Jakarta Selatan;pasar minggu;pejaten timur;6;30;200;188.2;440.0
+6.0;2;Jakarta Selatan;pasar minggu;pejaten timur;6;30;200;216.1;396.0
+7.0;2;Jakarta Selatan;pasar minggu;pejaten timur;6;30;200;187.9;406.0
+25.0;2;Jakarta Selatan;pasar minggu;pejaten timur;6;30;200;206.8;413.0
+26.0;2;Jakarta Selatan;pasar minggu;pejaten timur;6;30;200;203.4;323.0
+5.0;2;Jakarta Selatan;pasar minggu;pejaten timur;7;30;200;189.5;395.0
+6.0;2;Jakarta Selatan;pasar minggu;pejaten timur;7;30;200;245.4;378.0
+7.0;2;Jakarta Selatan;pasar minggu;pejaten timur;7;30;200;215.2;365.0
+25.0;2;Jakarta Selatan;pasar minggu;pejaten timur;7;30;200;162.0;394.0
+26.0;2;Jakarta Selatan;pasar minggu;pejaten timur;7;30;200;206.2;477.0
+5.0;2;Jakarta Selatan;pasar minggu;pejaten timur;8;30;200;189.3;431.0
+6.0;2;Jakarta Selatan;pasar minggu;pejaten timur;8;30;200;219.5;382.0
+7.0;2;Jakarta Selatan;pasar minggu;pejaten timur;8;30;200;186.6;428.0
+25.0;2;Jakarta Selatan;pasar minggu;pejaten timur;8;30;200;200.2;461.0
+26.0;2;Jakarta Selatan;pasar minggu;pejaten timur;8;30;200;212.6;442.0
+5.0;2;Jakarta Selatan;tebet;kebon baru;10;20;80;122.3;212.0
+6.0;2;Jakarta Selatan;tebet;kebon baru;10;20;80;81.0;184.0
+7.0;2;Jakarta Selatan;tebet;kebon baru;10;20;80;98.3;238.0
+5.0;2;Jakarta Selatan;tebet;manggarai;1;30;200;193.0;421.0
+6.0;2;Jakarta Selatan;tebet;manggarai;1;30;200;189.4;441.0
+7.0;2;Jakarta Selatan;tebet;manggarai;1;30;200;237.8;430.0
+5.0;2;Jakarta Selatan;tebet;manggarai;4;30;200;210.6;447.0
+6.0;2;Jakarta Selatan;tebet;manggarai;4;30;200;177.3;384.0
+7.0;2;Jakarta Selatan;tebet;manggarai;4;30;200;220.9;458.0
+6.0;2;Jakarta Selatan;tebet;bukit duri;10;10;40;109.9;143.0
+6.0;2;Jakarta Selatan;tebet;bukit duri;11;10;40;88.1;218.0
+5.0;2;Jakarta Selatan;jagakarsa;lenteng agung;2;50;200;187.1;407.0
+5.0;2;Jakarta Selatan;jagakarsa;lenteng agung;3;50;200;207.8;504.0
+5.0;2;Jakarta Selatan;jagakarsa;lenteng agung;4;50;200;242.8;443.0
+5.0;2;Jakarta Selatan;jagakarsa;lenteng agung;6;50;200;203.3;409.0
+5.0;2;Jakarta Selatan;jagakarsa;lenteng agung;7;50;200;226.4;416.0
+5.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;1;100;300;345.5;647.0
+6.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;1;100;300;311.5;677.0
+5.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;2;100;300;328.8;681.0
+6.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;2;100;300;265.2;637.0
+5.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;5;100;300;309.5;659.0
+6.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;5;100;300;324.9;746.0
+5.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;6;100;300;305.0;729.0
+6.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;6;100;300;362.6;677.0
+5.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;7;100;300;301.4;662.0
+6.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;7;100;300;321.2;665.0
+5.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;8;100;300;332.6;685.0
+6.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;8;100;300;358.8;619.0
+5.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;12;100;300;301.3;650.0
+6.0;2;Jakarta Selatan;jagakarsa;srengseng sawah;12;100;300;353.3;593.0
+5.0;2;Jakarta Selatan;mampang prapatan;bangka;2;30;40;82.7;181.0
+6.0;2;Jakarta Selatan;mampang prapatan;bangka;2;30;40;62.9;191.0
+3.0;2;Jakarta Timur;cakung;rawa terate;4;10;120;136.7;236.0
+5.0;2;Jakarta Timur;cakung;rawa terate;4;10;120;131.5;318.0
+6.0;2;Jakarta Timur;cakung;rawa terate;4;10;120;115.5;206.0
+15.0;2;Jakarta Timur;cakung;rawa terate;4;10;120;128.9;196.0
+16.0;2;Jakarta Timur;cakung;rawa terate;4;10;120;119.8;264.0
+17.0;2;Jakarta Timur;cakung;rawa terate;4;10;120;129.8;297.0
+3.0;2;Jakarta Timur;cakung;rawa terate;5;10;120;140.7;322.0
+5.0;2;Jakarta Timur;cakung;rawa terate;5;10;120;159.2;237.0
+6.0;2;Jakarta Timur;cakung;rawa terate;5;10;120;102.7;298.0
+15.0;2;Jakarta Timur;cakung;rawa terate;5;10;120;170.2;253.0
+16.0;2;Jakarta Timur;cakung;rawa terate;5;10;120;88.5;248.0
+17.0;2;Jakarta Timur;cakung;rawa terate;5;10;120;124.5;290.0
+15.0;2;Jakarta Timur;cakung;cakung barat;3;30;70;116.8;236.0
+16.0;2;Jakarta Timur;cakung;cakung barat;3;30;70;110.6;147.0
+15.0;2;Jakarta Timur;cakung;cakung barat;7;30;70;92.5;269.0
+16.0;2;Jakarta Timur;cakung;cakung barat;7;30;70;100.8;265.0
+15.0;2;Jakarta Timur;cakung;cakung barat;8;30;70;95.1;185.0
+16.0;2;Jakarta Timur;cakung;cakung barat;8;30;70;93.2;226.0
+15.0;2;Jakarta Timur;cakung;jatinegara;1;10;30;77.0;140.0
+15.0;2;Jakarta Timur;cakung;jatinegara;2;10;30;67.1;130.0
+15.0;2;Jakarta Timur;cakung;jatinegara;3;10;30;46.1;98.0
+15.0;2;Jakarta Timur;cakung;jatinegara;5;10;30;78.0;93.0
+15.0;2;Jakarta Timur;cakung;jatinegara;6;10;30;66.1;119.0
+15.0;2;Jakarta Timur;cakung;jatinegara;7;10;30;76.3;167.0
+15.0;2;Jakarta Timur;cakung;jatinegara;8;10;30;72.6;142.0
+15.0;2;Jakarta Timur;cakung;jatinegara;11;10;30;43.4;105.0
+15.0;2;Jakarta Timur;cakung;jatinegara;14;10;30;48.8;151.0
+3.0;2;Jakarta Timur;jatinegara;kampung melayu;1;10;220;217.4;291.0
+5.0;2;Jakarta Timur;jatinegara;kampung melayu;1;10;220;214.7;451.0
+6.0;2;Jakarta Timur;jatinegara;kampung melayu;1;10;220;202.1;335.0
+7.0;2;Jakarta Timur;jatinegara;kampung melayu;1;10;220;204.8;391.0
+8.0;2;Jakarta Timur;jatinegara;kampung melayu;1;10;220;228.1;360.0
+13.0;2;Jakarta Timur;jatinegara;kampung melayu;1;10;220;190.7;353.0
+26.0;2;Jakarta Timur;jatinegara;kampung melayu;1;10;220;213.4;451.0
+3.0;2;Jakarta Timur;jatinegara;kampung melayu;2;10;220;198.5;386.0
+5.0;2;Jakarta Timur;jatinegara;kampung melayu;2;10;220;198.1;419.0
+6.0;2;Jakarta Timur;jatinegara;kampung melayu;2;10;220;224.5;403.0
+7.0;2;Jakarta Timur;jatinegara;kampung melayu;2;10;220;219.0;424.0
+8.0;2;Jakarta Timur;jatinegara;kampung melayu;2;10;220;218.8;408.0
+13.0;2;Jakarta Timur;jatinegara;kampung melayu;2;10;220;228.6;354.0
+26.0;2;Jakarta Timur;jatinegara;kampung melayu;2;10;220;202.9;445.0
+3.0;2;Jakarta Timur;jatinegara;kampung melayu;4;10;220;216.1;385.0
+5.0;2;Jakarta Timur;jatinegara;kampung melayu;4;10;220;196.3;343.0
+6.0;2;Jakarta Timur;jatinegara;kampung melayu;4;10;220;209.0;388.0
+7.0;2;Jakarta Timur;jatinegara;kampung melayu;4;10;220;199.9;465.0
+8.0;2;Jakarta Timur;jatinegara;kampung melayu;4;10;220;204.4;439.0
+13.0;2;Jakarta Timur;jatinegara;kampung melayu;4;10;220;214.4;391.0
+26.0;2;Jakarta Timur;jatinegara;kampung melayu;4;10;220;186.1;391.0
+3.0;2;Jakarta Timur;jatinegara;kampung melayu;5;10;220;244.3;392.0
+5.0;2;Jakarta Timur;jatinegara;kampung melayu;5;10;220;182.4;488.0
+6.0;2;Jakarta Timur;jatinegara;kampung melayu;5;10;220;178.2;420.0
+7.0;2;Jakarta Timur;jatinegara;kampung melayu;5;10;220;225.7;422.0
+8.0;2;Jakarta Timur;jatinegara;kampung melayu;5;10;220;218.3;446.0
+13.0;2;Jakarta Timur;jatinegara;kampung melayu;5;10;220;215.0;415.0
+26.0;2;Jakarta Timur;jatinegara;kampung melayu;5;10;220;215.1;395.0
+3.0;2;Jakarta Timur;jatinegara;kampung melayu;6;10;220;202.3;397.0
+5.0;2;Jakarta Timur;jatinegara;kampung melayu;6;10;220;184.6;402.0
+6.0;2;Jakarta Timur;jatinegara;kampung melayu;6;10;220;204.0;404.0
+7.0;2;Jakarta Timur;jatinegara;kampung melayu;6;10;220;189.0;434.0
+8.0;2;Jakarta Timur;jatinegara;kampung melayu;6;10;220;222.0;407.0
+13.0;2;Jakarta Timur;jatinegara;kampung melayu;6;10;220;199.6;434.0
+26.0;2;Jakarta Timur;jatinegara;kampung melayu;6;10;220;186.0;402.0
+3.0;2;Jakarta Timur;jatinegara;kampung melayu;7;10;220;196.1;408.0
+5.0;2;Jakarta Timur;jatinegara;kampung melayu;7;10;220;210.8;325.0
+6.0;2;Jakarta Timur;jatinegara;kampung melayu;7;10;220;191.2;442.0
+7.0;2;Jakarta Timur;jatinegara;kampung melayu;7;10;220;186.1;419.0
+8.0;2;Jakarta Timur;jatinegara;kampung melayu;7;10;220;207.4;445.0
+13.0;2;Jakarta Timur;jatinegara;kampung melayu;7;10;220;207.4;289.0
+26.0;2;Jakarta Timur;jatinegara;kampung melayu;7;10;220;192.4;489.0
+3.0;2;Jakarta Timur;jatinegara;kampung melayu;8;10;220;193.1;399.0
+5.0;2;Jakarta Timur;jatinegara;kampung melayu;8;10;220;207.1;449.0
+6.0;2;Jakarta Timur;jatinegara;kampung melayu;8;10;220;173.5;363.0
+7.0;2;Jakarta Timur;jatinegara;kampung melayu;8;10;220;174.4;430.0
+8.0;2;Jakarta Timur;jatinegara;kampung melayu;8;10;220;188.1;363.0
+13.0;2;Jakarta Timur;jatinegara;kampung melayu;8;10;220;198.2;380.0
+26.0;2;Jakarta Timur;jatinegara;kampung melayu;8;10;220;208.7;482.0
+5.0;2;Jakarta Timur;jatinegara;bidara cina;3;10;250;254.5;442.0
+6.0;2;Jakarta Timur;jatinegara;bidara cina;3;10;250;242.2;459.0
+7.0;2;Jakarta Timur;jatinegara;bidara cina;3;10;250;221.8;485.0
+8.0;2;Jakarta Timur;jatinegara;bidara cina;3;10;250;224.6;470.0
+9.0;2;Jakarta Timur;jatinegara;bidara cina;3;10;250;204.9;456.0
+26.0;2;Jakarta Timur;jatinegara;bidara cina;3;10;250;224.6;465.0
+5.0;2;Jakarta Timur;jatinegara;bidara cina;5;10;250;219.2;546.0
+6.0;2;Jakarta Timur;jatinegara;bidara cina;5;10;250;231.5;448.0
+7.0;2;Jakarta Timur;jatinegara;bidara cina;5;10;250;208.5;458.0
+8.0;2;Jakarta Timur;jatinegara;bidara cina;5;10;250;235.4;492.0
+9.0;2;Jakarta Timur;jatinegara;bidara cina;5;10;250;255.7;494.0
+26.0;2;Jakarta Timur;jatinegara;bidara cina;5;10;250;222.8;497.0
+5.0;2;Jakarta Timur;jatinegara;bidara cina;6;10;250;233.0;476.0
+6.0;2;Jakarta Timur;jatinegara;bidara cina;6;10;250;238.8;404.0
+7.0;2;Jakarta Timur;jatinegara;bidara cina;6;10;250;217.0;515.0
+8.0;2;Jakarta Timur;jatinegara;bidara cina;6;10;250;229.5;404.0
+9.0;2;Jakarta Timur;jatinegara;bidara cina;6;10;250;225.3;462.0
+26.0;2;Jakarta Timur;jatinegara;bidara cina;6;10;250;227.0;420.0
+5.0;2;Jakarta Timur;jatinegara;bidara cina;7;10;250;209.5;447.0
+6.0;2;Jakarta Timur;jatinegara;bidara cina;7;10;250;225.5;463.0
+7.0;2;Jakarta Timur;jatinegara;bidara cina;7;10;250;235.0;463.0
+8.0;2;Jakarta Timur;jatinegara;bidara cina;7;10;250;254.0;467.0
+9.0;2;Jakarta Timur;jatinegara;bidara cina;7;10;250;244.2;515.0
+26.0;2;Jakarta Timur;jatinegara;bidara cina;7;10;250;268.1;468.0
+5.0;2;Jakarta Timur;jatinegara;bidara cina;11;10;250;209.7;440.0
+6.0;2;Jakarta Timur;jatinegara;bidara cina;11;10;250;242.4;489.0
+7.0;2;Jakarta Timur;jatinegara;bidara cina;11;10;250;228.7;498.0
+8.0;2;Jakarta Timur;jatinegara;bidara cina;11;10;250;268.8;401.0
+9.0;2;Jakarta Timur;jatinegara;bidara cina;11;10;250;208.8;474.0
+26.0;2;Jakarta Timur;jatinegara;bidara cina;11;10;250;208.2;478.0
+5.0;2;Jakarta Timur;jatinegara;bidara cina;12;10;250;213.0;438.0
+6.0;2;Jakarta Timur;jatinegara;bidara cina;12;10;250;182.5;505.0
+7.0;2;Jakarta Timur;jatinegara;bidara cina;12;10;250;214.5;444.0
+8.0;2;Jakarta Timur;jatinegara;bidara cina;12;10;250;209.8;455.0
+9.0;2;Jakarta Timur;jatinegara;bidara cina;12;10;250;228.0;443.0
+26.0;2;Jakarta Timur;jatinegara;bidara cina;12;10;250;231.8;451.0
+5.0;2;Jakarta Timur;jatinegara;bidara cina;14;10;250;262.5;406.0
+6.0;2;Jakarta Timur;jatinegara;bidara cina;14;10;250;244.0;392.0
+7.0;2;Jakarta Timur;jatinegara;bidara cina;14;10;250;213.5;514.0
+8.0;2;Jakarta Timur;jatinegara;bidara cina;14;10;250;207.0;416.0
+9.0;2;Jakarta Timur;jatinegara;bidara cina;14;10;250;234.8;410.0
+26.0;2;Jakarta Timur;jatinegara;bidara cina;14;10;250;198.6;364.0
+5.0;2;Jakarta Timur;jatinegara;bidara cina;15;10;250;261.6;424.0
+6.0;2;Jakarta Timur;jatinegara;bidara cina;15;10;250;248.6;397.0
+7.0;2;Jakarta Timur;jatinegara;bidara cina;15;10;250;215.6;516.0
+8.0;2;Jakarta Timur;jatinegara;bidara cina;15;10;250;190.7;490.0
+9.0;2;Jakarta Timur;jatinegara;bidara cina;15;10;250;252.1;422.0
+26.0;2;Jakarta Timur;jatinegara;bidara cina;15;10;250;222.7;540.0
+5.0;2;Jakarta Timur;jatinegara;bidara cina;16;10;250;249.8;489.0
+6.0;2;Jakarta Timur;jatinegara;bidara cina;16;10;250;193.1;437.0
+7.0;2;Jakarta Timur;jatinegara;bidara cina;16;10;250;213.0;350.0
+8.0;2;Jakarta Timur;jatinegara;bidara cina;16;10;250;225.1;542.0
+9.0;2;Jakarta Timur;jatinegara;bidara cina;16;10;250;225.9;394.0
+26.0;2;Jakarta Timur;jatinegara;bidara cina;16;10;250;216.0;384.0
+5.0;2;Jakarta Timur;jatinegara;cipinang muara;13;10;120;140.0;296.0
+6.0;2;Jakarta Timur;jatinegara;cipinang muara;13;10;120;106.1;353.0
+5.0;2;Jakarta Timur;makasar;cipinang melayu;3;20;90;109.7;280.0
+5.0;2;Jakarta Timur;makasar;cipinang melayu;4;20;90;114.9;248.0
+5.0;2;Jakarta Timur;makasar;cipinang melayu;5;20;90;122.8;249.0
+5.0;2;Jakarta Timur;makasar;makasar;4;20;50;96.7;199.0
+6.0;2;Jakarta Timur;makasar;makasar;4;20;50;60.0;195.0
+5.0;2;Jakarta Timur;kramat jati;cawang;1;20;270;216.8;506.0
+6.0;2;Jakarta Timur;kramat jati;cawang;1;20;270;273.1;499.0
+7.0;2;Jakarta Timur;kramat jati;cawang;1;20;270;254.1;492.0
+26.0;2;Jakarta Timur;kramat jati;cawang;1;20;270;232.5;465.0
+5.0;2;Jakarta Timur;kramat jati;cawang;2;20;270;278.5;484.0
+6.0;2;Jakarta Timur;kramat jati;cawang;2;20;270;249.8;427.0
+7.0;2;Jakarta Timur;kramat jati;cawang;2;20;270;271.1;491.0
+26.0;2;Jakarta Timur;kramat jati;cawang;2;20;270;248.9;455.0
+5.0;2;Jakarta Timur;kramat jati;cawang;3;20;270;288.7;451.0
+6.0;2;Jakarta Timur;kramat jati;cawang;3;20;270;282.6;502.0
+7.0;2;Jakarta Timur;kramat jati;cawang;3;20;270;242.5;551.0
+26.0;2;Jakarta Timur;kramat jati;cawang;3;20;270;266.9;532.0
+5.0;2;Jakarta Timur;kramat jati;cawang;5;20;270;260.4;432.0
+6.0;2;Jakarta Timur;kramat jati;cawang;5;20;270;274.9;455.0
+7.0;2;Jakarta Timur;kramat jati;cawang;5;20;270;228.2;533.0
+26.0;2;Jakarta Timur;kramat jati;cawang;5;20;270;261.2;456.0
+5.0;2;Jakarta Timur;kramat jati;cawang;8;20;270;268.7;486.0
+6.0;2;Jakarta Timur;kramat jati;cawang;8;20;270;212.3;517.0
+7.0;2;Jakarta Timur;kramat jati;cawang;8;20;270;223.8;456.0
+26.0;2;Jakarta Timur;kramat jati;cawang;8;20;270;206.7;499.0
+5.0;2;Jakarta Timur;kramat jati;cawang;12;20;270;242.1;442.0
+6.0;2;Jakarta Timur;kramat jati;cawang;12;20;270;261.9;471.0
+7.0;2;Jakarta Timur;kramat jati;cawang;12;20;270;277.5;508.0
+26.0;2;Jakarta Timur;kramat jati;cawang;12;20;270;249.0;431.0
+5.0;2;Jakarta Timur;kramat jati;cililitan;5;30;250;272.6;498.0
+6.0;2;Jakarta Timur;kramat jati;cililitan;5;30;250;212.4;479.0
+7.0;2;Jakarta Timur;kramat jati;cililitan;5;30;250;205.9;502.0
+5.0;2;Jakarta Timur;kramat jati;cililitan;6;30;250;238.9;489.0
+6.0;2;Jakarta Timur;kramat jati;cililitan;6;30;250;247.7;535.0
+7.0;2;Jakarta Timur;kramat jati;cililitan;6;30;250;239.3;485.0
+5.0;2;Jakarta Timur;kramat jati;cililitan;7;30;250;198.7;463.0
+6.0;2;Jakarta Timur;kramat jati;cililitan;7;30;250;238.2;485.0
+7.0;2;Jakarta Timur;kramat jati;cililitan;7;30;250;213.9;502.0
+5.0;2;Jakarta Timur;kramat jati;cililitan;15;30;250;253.4;482.0
+6.0;2;Jakarta Timur;kramat jati;cililitan;15;30;250;247.3;482.0
+7.0;2;Jakarta Timur;kramat jati;cililitan;15;30;250;221.2;452.0
+5.0;2;Jakarta Timur;kramat jati;cililitan;16;30;250;229.7;453.0
+6.0;2;Jakarta Timur;kramat jati;cililitan;16;30;250;218.8;424.0
+7.0;2;Jakarta Timur;kramat jati;cililitan;16;30;250;238.7;550.0
+5.0;2;Jakarta Timur;kramat jati;bale kambang;1;60;300;319.1;550.0
+6.0;2;Jakarta Timur;kramat jati;bale kambang;1;60;300;280.3;572.0
+7.0;2;Jakarta Timur;kramat jati;bale kambang;1;60;300;310.1;571.0
+8.0;2;Jakarta Timur;kramat jati;bale kambang;1;60;300;289.4;636.0
+9.0;2;Jakarta Timur;kramat jati;bale kambang;1;60;300;284.1;588.0
+10.0;2;Jakarta Timur;kramat jati;bale kambang;1;60;300;297.9;650.0
+5.0;2;Jakarta Timur;kramat jati;bale kambang;2;60;300;279.3;573.0
+6.0;2;Jakarta Timur;kramat jati;bale kambang;2;60;300;288.9;611.0
+7.0;2;Jakarta Timur;kramat jati;bale kambang;2;60;300;276.0;567.0
+8.0;2;Jakarta Timur;kramat jati;bale kambang;2;60;300;339.3;686.0
+9.0;2;Jakarta Timur;kramat jati;bale kambang;2;60;300;300.7;552.0
+10.0;2;Jakarta Timur;kramat jati;bale kambang;2;60;300;286.0;612.0
+5.0;2;Jakarta Timur;kramat jati;bale kambang;5;60;300;304.3;625.0
+6.0;2;Jakarta Timur;kramat jati;bale kambang;5;60;300;297.8;617.0
+7.0;2;Jakarta Timur;kramat jati;bale kambang;5;60;300;295.6;593.0
+8.0;2;Jakarta Timur;kramat jati;bale kambang;5;60;300;312.3;595.0
+9.0;2;Jakarta Timur;kramat jati;bale kambang;5;60;300;315.2;602.0
+10.0;2;Jakarta Timur;kramat jati;bale kambang;5;60;300;289.4;594.0
+5.0;2;Jakarta Timur;pasar rebo;gedong;3;50;150;168.5;399.0
+6.0;2;Jakarta Timur;pasar rebo;gedong;3;50;150;174.5;448.0
+6.0;2;Jakarta Timur;matraman;kebon manggis;3;20;80;59.0;188.0
+7.0;2;Jakarta Timur;matraman;kebon manggis;3;20;80;74.7;155.0
+6.0;2;Jakarta Timur;matraman;kebon manggis;4;20;80;132.3;206.0
+7.0;2;Jakarta Timur;matraman;kebon manggis;4;20;80;137.9;313.0
+4.0;3;Jakarta Selatan;pancoran;rawajati;7;30;30;70.0;118.0
+4.0;3;Jakarta Selatan;pasar minggu;pejaten timur;5;50;50;116.5;276.0
+10.0;3;Jakarta Selatan;pasar minggu;pejaten timur;5;50;50;111.2;277.0
+4.0;3;Jakarta Selatan;pasar minggu;pejaten timur;6;50;50;166.6;188.0
+10.0;3;Jakarta Selatan;pasar minggu;pejaten timur;6;50;50;127.4;233.0
+4.0;3;Jakarta Selatan;pasar minggu;pejaten timur;8;50;50;102.4;275.0
+10.0;3;Jakarta Selatan;pasar minggu;pejaten timur;8;50;50;85.9;195.0
+4.0;3;Jakarta Selatan;tebet;kebon baru;10;30;30;42.9;142.0
+4.0;3;Jakarta Timur;jatinegara;bidara cina;7;50;50;109.1;187.0
+10.0;3;Jakarta Timur;jatinegara;bidara cina;7;50;50;89.9;169.0
+4.0;3;Jakarta Timur;jatinegara;bidara cina;11;50;50;76.6;184.0
+10.0;3;Jakarta Timur;jatinegara;bidara cina;11;50;50;92.1;161.0
+4.0;3;Jakarta Timur;jatinegara;kampung melayu;4;10;10;23.4;91.0
+10.0;3;Jakarta Timur;jatinegara;kampung melayu;4;10;10;78.7;59.0
+13.0;3;Jakarta Timur;jatinegara;kampung melayu;4;10;10;62.6;99.0
+4.0;3;Jakarta Timur;jatinegara;kampung melayu;5;10;10;44.8;28.0
+10.0;3;Jakarta Timur;jatinegara;kampung melayu;5;10;10;74.6;103.0
+13.0;3;Jakarta Timur;jatinegara;kampung melayu;5;10;10;46.5;123.0
+4.0;3;Jakarta Timur;jatinegara;kampung melayu;6;10;10;27.8;10.0
+10.0;3;Jakarta Timur;jatinegara;kampung melayu;6;10;10;75.5;105.0
+13.0;3;Jakarta Timur;jatinegara;kampung melayu;6;10;10;55.8;139.0
+4.0;3;Jakarta Timur;jatinegara;kampung melayu;7;10;10;24.3;42.0
+10.0;3;Jakarta Timur;jatinegara;kampung melayu;7;10;10;41.2;157.0
+13.0;3;Jakarta Timur;jatinegara;kampung melayu;7;10;10;27.5;107.0
+4.0;3;Jakarta Timur;jatinegara;kampung melayu;8;10;10;17.3;62.0
+10.0;3;Jakarta Timur;jatinegara;kampung melayu;8;10;10;63.5;88.0
+13.0;3;Jakarta Timur;jatinegara;kampung melayu;8;10;10;83.2;112.0
+4.0;3;Jakarta Timur;kramat jati;cawang;1;50;50;77.0;213.0
+10.0;3;Jakarta Timur;kramat jati;cawang;1;50;50;116.3;232.0
+13.0;3;Jakarta Timur;kramat jati;cawang;1;50;50;92.0;173.0
+4.0;3;Jakarta Timur;kramat jati;cawang;2;50;50;95.3;217.0
+10.0;3;Jakarta Timur;kramat jati;cawang;2;50;50;93.2;153.0
+13.0;3;Jakarta Timur;kramat jati;cawang;2;50;50;87.7;206.0
+4.0;3;Jakarta Timur;kramat jati;cawang;3;50;50;106.0;174.0
+10.0;3;Jakarta Timur;kramat jati;cawang;3;50;50;88.4;181.0
+13.0;3;Jakarta Timur;kramat jati;cawang;3;50;50;110.4;259.0
+4.0;3;Jakarta Timur;kramat jati;cawang;5;50;50;104.0;254.0
+10.0;3;Jakarta Timur;kramat jati;cawang;5;50;50;100.2;234.0
+13.0;3;Jakarta Timur;kramat jati;cawang;5;50;50;86.8;166.0
+4.0;3;Jakarta Timur;kramat jati;cawang;8;50;50;93.5;197.0
+10.0;3;Jakarta Timur;kramat jati;cawang;8;50;50;120.1;259.0
+13.0;3;Jakarta Timur;kramat jati;cawang;8;50;50;115.0;216.0
+4.0;3;Jakarta Timur;kramat jati;cililitan;6;50;50;85.4;303.0
+4.0;3;Jakarta Timur;kramat jati;cililitan;7;50;50;107.0;226.0
+12.0;3;Jakarta Timur;makasar;cipinang melayu;3;10;10;60.0;98.0
+12.0;3;Jakarta Timur;makasar;cipinang melayu;4;10;10;11.6;78.0
+22.0;4;Jakarta Selatan;pesanggrahan;ulujami;1;20;20;70.9;125.0
+4.0;4;Jakarta Timur;cakung;jatinegara;2;50;50;91.7;204.0
+18.0;4;Jakarta Timur;cakung;penggilingan;12;20;20;71.4;148.0
+4.0;4;Jakarta Timur;makasar;cipinang melayu;3;10;10;29.7;128.0
+4.0;4;Jakarta Timur;makasar;cipinang melayu;4;10;10;8.9;59.0
+4.0;4;Jakarta Timur;pulogadung;rawamangun;14;20;20;27.4;67.0
+8.0;4;Jakarta Timur;jatinegara;kampung melayu;4;60;60;121.0;167.0
+10.0;4;Jakarta Timur;jatinegara;kampung melayu;4;60;60;125.2;260.0
+17.0;4;Jakarta Timur;jatinegara;kampung melayu;4;60;60;101.9;196.0
+8.0;4;Jakarta Timur;jatinegara;kampung melayu;5;60;60;132.8;154.0
+10.0;4;Jakarta Timur;jatinegara;kampung melayu;5;60;60;86.8;256.0
+17.0;4;Jakarta Timur;jatinegara;kampung melayu;5;60;60;118.7;340.0
+8.0;4;Jakarta Timur;jatinegara;kampung melayu;6;60;60;95.8;240.0
+10.0;4;Jakarta Timur;jatinegara;kampung melayu;6;60;60;107.0;274.0
+17.0;4;Jakarta Timur;jatinegara;kampung melayu;6;60;60;120.9;243.0
+8.0;4;Jakarta Timur;jatinegara;kampung melayu;7;60;60;102.8;236.0
+10.0;4;Jakarta Timur;jatinegara;kampung melayu;7;60;60;112.3;277.0
+17.0;4;Jakarta Timur;jatinegara;kampung melayu;7;60;60;140.1;228.0
+8.0;4;Jakarta Timur;jatinegara;kampung melayu;8;60;60;108.5;251.0
+10.0;4;Jakarta Timur;jatinegara;kampung melayu;8;60;60;136.7;253.0
+17.0;4;Jakarta Timur;jatinegara;kampung melayu;8;60;60;97.4;213.0
+8.0;4;Jakarta Timur;jatinegara;bidara cina;5;35;35;93.1;205.0
+10.0;4;Jakarta Timur;jatinegara;bidara cina;5;35;35;111.3;158.0
+17.0;4;Jakarta Timur;jatinegara;bidara cina;5;35;35;33.1;135.0
+8.0;4;Jakarta Timur;jatinegara;bidara cina;7;35;35;66.6;186.0
+10.0;4;Jakarta Timur;jatinegara;bidara cina;7;35;35;94.0;129.0
+17.0;4;Jakarta Timur;jatinegara;bidara cina;7;35;35;78.4;166.0
+8.0;4;Jakarta Timur;jatinegara;bidara cina;11;35;35;89.9;165.0
+10.0;4;Jakarta Timur;jatinegara;bidara cina;11;35;35;70.4;208.0
+17.0;4;Jakarta Timur;jatinegara;bidara cina;11;35;35;84.2;184.0
+8.0;4;Jakarta Timur;kramat jati;cawang;1;60;60;116.9;239.0
+10.0;4;Jakarta Timur;kramat jati;cawang;1;60;60;143.4;273.0
+17.0;4;Jakarta Timur;kramat jati;cawang;1;60;60;125.1;296.0
+8.0;4;Jakarta Timur;kramat jati;cawang;2;60;60;126.8;262.0
+10.0;4;Jakarta Timur;kramat jati;cawang;2;60;60;111.8;240.0
+17.0;4;Jakarta Timur;kramat jati;cawang;2;60;60;110.2;188.0
+8.0;4;Jakarta Timur;kramat jati;cawang;3;60;60;111.3;197.0
+10.0;4;Jakarta Timur;kramat jati;cawang;3;60;60;127.9;228.0
+17.0;4;Jakarta Timur;kramat jati;cawang;3;60;60;111.6;216.0
+8.0;4;Jakarta Timur;kramat jati;cawang;5;60;60;125.8;233.0
+10.0;4;Jakarta Timur;kramat jati;cawang;5;60;60;161.5;242.0
+17.0;4;Jakarta Timur;kramat jati;cawang;5;60;60;137.4;261.0
+8.0;4;Jakarta Timur;kramat jati;cawang;8;60;60;113.5;237.0
+10.0;4;Jakarta Timur;kramat jati;cawang;8;60;60;144.0;259.0
+17.0;4;Jakarta Timur;kramat jati;cawang;8;60;60;111.8;243.0
+17.0;5;Jakarta Barat;kalideres;kamal;1;20;20;19.2;41.0
+3.0;5;Jakarta Selatan;pasar minggu;jati padang;2;10;40;47.3;97.0
+3.0;5;Jakarta Selatan;pasar minggu;jati padang;4;10;40;30.1;129.0
+3.0;5;Jakarta Selatan;pasar minggu;jati padang;5;10;40;60.5;87.0
+3.0;5;Jakarta Selatan;pasar minggu;jati padang;6;10;40;67.9;159.0
+3.0;5;Jakarta Selatan;pasar minggu;jati padang;9;10;40;101.0;196.0
+3.0;5;Jakarta Selatan;pasar minggu;ragunan;7;10;30;66.5;169.0
+3.0;5;Jakarta Selatan;pasar minggu;ragunan;8;10;30;55.6;111.0
+3.0;5;Jakarta Selatan;pasar minggu;cilandak timur;1;10;120;144.1;315.0
+20.0;5;Jakarta Selatan;pasar minggu;cilandak timur;1;10;120;83.3;261.0
+3.0;5;Jakarta Selatan;pasar minggu;cilandak timur;3;10;120;132.2;242.0
+20.0;5;Jakarta Selatan;pasar minggu;cilandak timur;3;10;120;142.9;230.0
+3.0;5;Jakarta Selatan;pasar minggu;cilandak timur;4;10;120;97.9;243.0
+20.0;5;Jakarta Selatan;pasar minggu;cilandak timur;4;10;120;150.4;239.0
+3.0;5;Jakarta Selatan;pasar minggu;cilandak timur;9;10;120;134.3;262.0
+20.0;5;Jakarta Selatan;pasar minggu;cilandak timur;9;10;120;119.2;261.0
+3.0;5;Jakarta Selatan;pasar minggu;cilandak timur;13;10;120;140.2;255.0
+20.0;5;Jakarta Selatan;pasar minggu;cilandak timur;13;10;120;172.9;272.0
+21.0;5;Jakarta Selatan;pasar minggu;pejaten timur;5;10;50;78.6;198.0
+21.0;5;Jakarta Selatan;pasar minggu;pejaten timur;6;10;50;80.0;188.0
+21.0;5;Jakarta Selatan;pasar minggu;pejaten timur;7;10;50;65.8;91.0
+21.0;5;Jakarta Selatan;pasar minggu;pejaten timur;8;10;50;58.0;48.0
+3.0;5;Jakarta Selatan;mampang prapatan;bangka;1;100;150;234.1;472.0
+3.0;5;Jakarta Selatan;mampang prapatan;bangka;2;100;150;200.4;380.0
+3.0;5;Jakarta Selatan;mampang prapatan;bangka;3;100;150;218.9;426.0
+3.0;5;Jakarta Selatan;mampang prapatan;bangka;4;100;150;207.9;388.0
+3.0;5;Jakarta Selatan;pancoran;duren tiga;1;10;60;92.1;93.0
+3.0;5;Jakarta Selatan;pancoran;duren tiga;2;10;60;89.2;187.0
+3.0;5;Jakarta Selatan;pancoran;duren tiga;5;10;60;103.3;195.0
+21.0;5;Jakarta Selatan;pancoran;rawajati;7;30;60;87.3;172.0
+21.0;5;Jakarta Selatan;pancoran;pengadegan;1;10;50;69.6;46.0
+3.0;5;Jakarta Selatan;cilandak;pondok labu;1;10;80;77.9;173.0
+3.0;5;Jakarta Selatan;cilandak;pondok labu;2;10;80;88.6;211.0
+3.0;5;Jakarta Selatan;cilandak;pondok labu;3;10;80;105.0;136.0
+3.0;5;Jakarta Selatan;cilandak;pondok labu;7;10;80;112.6;202.0
+3.0;5;Jakarta Selatan;cilandak;cipete selatan;1;20;40;56.6;149.0
+3.0;5;Jakarta Selatan;cilandak;cipete selatan;7;20;40;92.4;173.0
+3.0;5;Jakarta Selatan;kebayoran baru;petogogan;2;40;40;117.1;185.0
+21.0;5;Jakarta Selatan;tebet;kebon baru;1;10;20;60.8;66.0
+20.0;5;Jakarta Timur;jatinegara;kampung melayu;4;10;100;150.0;273.0
+21.0;5;Jakarta Timur;jatinegara;kampung melayu;4;10;100;97.0;219.0
+20.0;5;Jakarta Timur;jatinegara;kampung melayu;5;10;100;87.6;224.0
+21.0;5;Jakarta Timur;jatinegara;kampung melayu;5;10;100;76.9;188.0
+20.0;5;Jakarta Timur;jatinegara;kampung melayu;7;10;100;142.4;207.0
+21.0;5;Jakarta Timur;jatinegara;kampung melayu;7;10;100;125.6;190.0
+20.0;5;Jakarta Timur;jatinegara;kampung melayu;8;10;100;111.4;218.0
+21.0;5;Jakarta Timur;jatinegara;kampung melayu;8;10;100;118.1;293.0
+21.0;5;Jakarta Timur;jatinegara;bidara cina;7;70;110;142.5;275.0
+21.0;5;Jakarta Timur;jatinegara;bidara cina;11;70;110;213.9;265.0
+20.0;5;Jakarta Timur;kramat jati;cawang;1;10;70;92.6;239.0
+21.0;5;Jakarta Timur;kramat jati;cawang;1;10;70;92.2;172.0
+20.0;5;Jakarta Timur;kramat jati;cawang;2;10;70;104.5;153.0
+21.0;5;Jakarta Timur;kramat jati;cawang;2;10;70;99.6;222.0
+20.0;5;Jakarta Timur;kramat jati;cawang;3;10;70;94.5;156.0
+21.0;5;Jakarta Timur;kramat jati;cawang;3;10;70;74.2;253.0
+20.0;5;Jakarta Timur;kramat jati;cawang;5;10;70;99.4;207.0
+21.0;5;Jakarta Timur;kramat jati;cawang;5;10;70;127.6;160.0
+20.0;5;Jakarta Timur;kramat jati;cawang;8;10;70;116.9;266.0
+21.0;5;Jakarta Timur;kramat jati;cawang;8;10;70;121.9;156.0
+21.0;5;Jakarta Timur;kramat jati;cililitan;6;10;30;49.8;150.0
+21.0;5;Jakarta Timur;kramat jati;cililitan;7;10;30;40.2;132.0
+25.0;6;Jakarta Selatan;pasar minggu;pejaten timur;5;10;30;57.5;172.0
+25.0;6;Jakarta Selatan;pasar minggu;pejaten timur;6;10;30;61.1;182.0
+25.0;6;Jakarta Selatan;pasar minggu;pejaten timur;7;10;30;81.9;121.0
+25.0;6;Jakarta Selatan;pasar minggu;pejaten timur;8;10;30;26.2;90.0
+25.0;6;Jakarta Selatan;pancoran;pengadegan;1;10;15;79.3;116.0
+25.0;6;Jakarta Selatan;kebayoran lama;pondok pinang;5;30;60;94.3;168.0
+25.0;6;Jakarta Selatan;kebayoran lama;cipulir;10;10;30;51.5;201.0
+24.0;6;Jakarta Timur;jatinegara;kampung melayu;4;10;100;92.3;230.0
+25.0;6;Jakarta Timur;jatinegara;kampung melayu;4;10;100;79.4;210.0
+24.0;6;Jakarta Timur;jatinegara;kampung melayu;5;10;100;129.0;232.0
+25.0;6;Jakarta Timur;jatinegara;kampung melayu;5;10;100;114.0;171.0
+24.0;6;Jakarta Timur;jatinegara;kampung melayu;6;10;100;86.7;186.0
+25.0;6;Jakarta Timur;jatinegara;kampung melayu;6;10;100;86.6;273.0
+24.0;6;Jakarta Timur;jatinegara;kampung melayu;7;10;100;105.8;199.0
+25.0;6;Jakarta Timur;jatinegara;kampung melayu;7;10;100;145.9;183.0
+24.0;6;Jakarta Timur;jatinegara;kampung melayu;8;10;100;107.3;246.0
+25.0;6;Jakarta Timur;jatinegara;kampung melayu;8;10;100;82.4;272.0
+25.0;6;Jakarta Timur;jatinegara;bidara cina;7;50;75;118.8;276.0
+25.0;6;Jakarta Timur;jatinegara;bidara cina;11;50;75;118.3;287.0
+24.0;6;Jakarta Timur;kramat jati;cawang;3;10;20;0.0;75.0
+25.0;6;Jakarta Timur;kramat jati;cawang;3;10;20;51.4;48.0
+24.0;6;Jakarta Timur;kramat jati;cawang;5;10;20;47.9;165.0
+25.0;6;Jakarta Timur;kramat jati;cawang;5;10;20;66.4;92.0
+24.0;6;Jakarta Timur;kramat jati;cawang;8;10;20;89.5;95.0
+25.0;6;Jakarta Timur;kramat jati;cawang;8;10;20;75.0;158.0
+25.0;6;Jakarta Timur;kramat jati;cililitan;7;10;30;54.6;142.0
+29.0;10;Jakarta Pusat;sawah besar;gunung sahari utara;1;10;40;45.4;153.0
+29.0;10;Jakarta Barat;cengkareng;Rawa Buaya;3;20;30;119.0;222.0
+29.0;10;Jakarta Barat;cengkareng;Rawa Buaya;11;20;30;68.7;109.0
+23.0;10;Jakarta Timur;jatinegara;kampung melayu;4;30;80;112.8;262.0
+29.0;10;Jakarta Timur;jatinegara;kampung melayu;4;30;80;112.0;227.0
+23.0;10;Jakarta Timur;jatinegara;kampung melayu;5;30;80;116.5;236.0
+29.0;10;Jakarta Timur;jatinegara;kampung melayu;5;30;80;109.6;286.0
+29.0;10;Jakarta Timur;jatinegara;bidara cina;7;50;60;101.0;245.0
+29.0;10;Jakarta Timur;jatinegara;bidara cina;11;50;60;101.6;247.0
+29.0;10;Jakarta Timur;kramat jati;cawang;1;10;50;74.3;193.0
+29.0;10;Jakarta Timur;kramat jati;cawang;2;10;50;64.1;135.0
+29.0;10;Jakarta Timur;kramat jati;cawang;3;10;50;60.7;116.0
+29.0;10;Jakarta Timur;kramat jati;cawang;5;10;50;77.1;108.0
+26.0;11;Jakarta Utara;penjaringan;pluit;22;2;15;37.7;7.0
+29.0;11;Jakarta Utara;penjaringan;pluit;22;2;15;72.8;168.0
+26.0;11;Jakarta Utara;penjaringan;kamal muara;4;5;10;0.0;38.0
+27.0;11;Jakarta Utara;penjaringan;kamal muara;4;5;10;63.1;74.0
+27.0;11;Jakarta Barat;kalideres;kamal;1;5;30;81.2;101.0
+28.0;11;Jakarta Barat;kalideres;kamal;1;5;30;14.8;125.0
+29.0;11;Jakarta Barat;kalideres;kamal;1;5;30;49.4;145.0
+9.0;11;Jakarta Selatan;kebayoran lama;pondok pinang;5;10;20;45.1;139.0
+12.0;11;Jakarta Selatan;pasar minggu;pejaten timur;5;10;30;31.8;97.0
+12.0;11;Jakarta Selatan;pasar minggu;pejaten timur;6;10;30;44.4;113.0
+12.0;11;Jakarta Selatan;pasar minggu;pejaten timur;8;10;30;37.8;131.0
+28.0;11;Jakarta Selatan;pasar minggu;cilandak timur;3;10;30;95.0;110.0
+28.0;11;Jakarta Selatan;pasar minggu;cilandak timur;9;10;30;78.7;184.0
+28.0;11;Jakarta Selatan;cilandak;gandaria selatan;5;60;70;152.9;275.0
+28.0;11;Jakarta Selatan;cilandak;gandaria selatan;7;60;70;141.9;284.0
+28.0;11;Jakarta Selatan;pesanggrahan;ulujami;1;40;70;89.9;252.0
+11.0;11;Jakarta Timur;Makasar;cipinang melayu;3;30;50;79.5;227.0
+11.0;11;Jakarta Timur;Makasar;cipinang melayu;4;30;50;99.8;187.0
+11.0;11;Jakarta Timur;jatinegara;cipinang muara;13;60;80;110.6;218.0
+12.0;11;Jakarta Timur;jatinegara;kampung melayu;4;10;100;126.8;241.0
+12.0;11;Jakarta Timur;jatinegara;kampung melayu;5;10;100;107.7;199.0
+12.0;11;Jakarta Timur;jatinegara;kampung melayu;7;10;100;105.0;204.0
+12.0;11;Jakarta Timur;jatinegara;kampung melayu;8;10;100;126.7;248.0
+12.0;11;Jakarta Timur;jatinegara;bidara cina;7;20;60;98.9;230.0
+12.0;11;Jakarta Timur;jatinegara;bidara cina;11;20;60;82.8;181.0
+11.0;11;Jakarta Timur;ciracas;rambutan;5;10;30;83.2;132.0
+12.0;11;Jakarta Timur;kramat jati;cawang;2;10;50;53.4;218.0
+12.0;11;Jakarta Timur;kramat jati;cawang;3;10;50;87.3;160.0
+12.0;11;Jakarta Timur;kramat jati;cawang;5;10;50;86.9;254.0
+12.0;11;Jakarta Timur;kramat jati;cawang;8;10;50;68.8;173.0
+29.0;11;Jakarta Timur;cakung;jatinegara;8;10;15;55.3;27.0
+29.0;11;Jakarta Timur;cakung;rawa terate;5;5;20;23.7;128.0
+4.0;12;Jakarta Utara;penjaringan;pluit;22;5;10;59.7;98.0
+5.0;12;Jakarta Utara;penjaringan;pluit;22;5;10;37.6;134.0
+7.0;12;Jakarta Utara;penjaringan;pluit;22;5;10;30.8;109.0
+4.0;12;Jakarta Utara;penjaringan;kamal muara;4;3;10;60.7;74.0
+5.0;12;Jakarta Utara;penjaringan;kamal muara;4;3;10;25.7;31.0
+6.0;12;Jakarta Utara;penjaringan;kamal muara;4;3;10;11.6;71.0
+7.0;12;Jakarta Utara;penjaringan;kamal muara;4;3;10;8.6;45.0
+8.0;12;Jakarta Utara;penjaringan;kamal muara;4;3;10;51.9;56.0
+11.0;12;Jakarta Utara;penjaringan;kamal muara;4;3;10;14.1;103.0
+13.0;12;Jakarta Utara;penjaringan;kamal muara;4;3;10;74.8;146.0
+7.0;12;Jakarta Utara;penjaringan;penjaringan;17;5;10;0.0;98.0
+4.0;12;Jakarta Barat;kalideres;kamal;1;6;10;75.9;36.0
+5.0;12;Jakarta Barat;kalideres;kamal;1;6;10;46.2;102.0
+6.0;12;Jakarta Barat;kalideres;kamal;1;6;10;40.1;132.0
+11.0;12;Jakarta Barat;kalideres;kamal;1;6;10;31.1;60.0
+12.0;12;Jakarta Barat;kalideres;kamal;1;6;10;50.0;79.0
+12.0;12;Jakarta Barat;cengkareng;rawa buaya;1;15;60;85.5;173.0
+12.0;12;Jakarta Barat;cengkareng;rawa buaya;2;15;60;108.3;141.0
+12.0;12;Jakarta Barat;cengkareng;rawa buaya;3;15;60;88.5;198.0
+12.0;12;Jakarta Barat;cengkareng;rawa buaya;4;15;60;89.3;168.0
+12.0;12;Jakarta Barat;cengkareng;rawa buaya;7;15;60;79.0;189.0
+12.0;12;Jakarta Barat;cengkareng;rawa buaya;8;15;60;85.1;137.0
+12.0;12;Jakarta Barat;cengkareng;rawa buaya;11;15;60;92.4;155.0
+12.0;12;Jakarta Barat;cengkareng;cengkareng timur;3;20;30;33.3;164.0
+12.0;12;Jakarta Barat;cengkareng;duri kosambi;4;10;40;40.5;120.0
+12.0;12;Jakarta Barat;cengkareng;duri kosambi;5;10;40;82.4;204.0
+12.0;12;Jakarta Barat;cengkareng;duri kosambi;6;10;40;70.9;119.0
+12.0;12;Jakarta Barat;kembangan;kembangan utara;1;50;50;101.3;219.0
+4.0;12;Jakarta Selatan;cilandak;cilandak barat;2;20;60;90.4;217.0
+4.0;12;Jakarta Selatan;cilandak;cilandak barat;6;20;60;97.0;123.0
+13.0;12;Jakarta Selatan;cilandak;pondok labu;7;20;60;79.2;110.0
+10.0;12;Jakarta Selatan;pancoran;kalibata;9;30;30;59.4;89.0
+10.0;12;Jakarta Selatan;pancoran;duren tiga;5;70;70;138.9;321.0
+10.0;12;Jakarta Selatan;mampang prapatan;bangka;2;50;80;107.9;233.0
+13.0;12;Jakarta Selatan;mampang prapatan;bangka;2;50;80;135.7;357.0
+10.0;12;Jakarta Selatan;mampang prapatan;bangka;3;50;80;93.4;232.0
+13.0;12;Jakarta Selatan;mampang prapatan;bangka;3;50;80;148.1;262.0
+10.0;12;Jakarta Selatan;mampang prapatan;bangka;4;50;80;137.0;317.0
+13.0;12;Jakarta Selatan;mampang prapatan;bangka;4;50;80;132.6;335.0
+10.0;12;Jakarta Selatan;kebayoran baru;petogogan;1;10;40;87.2;217.0
+12.0;12;Jakarta Selatan;kebayoran baru;petogogan;1;10;40;100.8;183.0
+13.0;12;Jakarta Selatan;kebayoran baru;petogogan;1;10;40;87.8;176.0
+10.0;12;Jakarta Selatan;kebayoran baru;petogogan;2;10;40;30.7;159.0
+12.0;12;Jakarta Selatan;kebayoran baru;petogogan;2;10;40;41.9;166.0
+13.0;12;Jakarta Selatan;kebayoran baru;petogogan;2;10;40;55.0;113.0
+10.0;12;Jakarta Selatan;kebayoran baru;petogogan;3;10;40;68.0;102.0
+12.0;12;Jakarta Selatan;kebayoran baru;petogogan;3;10;40;77.9;135.0
+13.0;12;Jakarta Selatan;kebayoran baru;petogogan;3;10;40;53.0;128.0
+10.0;12;Jakarta Selatan;kebayoran baru;petogogan;5;10;40;71.2;117.0
+12.0;12;Jakarta Selatan;kebayoran baru;petogogan;5;10;40;52.4;163.0
+13.0;12;Jakarta Selatan;kebayoran baru;petogogan;5;10;40;55.3;173.0
+13.0;12;Jakarta Selatan;kebayoran baru;cipete utara;6;20;40;46.9;154.0
+13.0;12;Jakarta Selatan;pasar minggu;cilandak timur;1;10;100;94.0;284.0
+13.0;12;Jakarta Selatan;pasar minggu;cilandak timur;3;10;100;85.5;179.0
+13.0;12;Jakarta Selatan;kebayoran lama;cipulir;10;30;80;93.0;217.0
+11.0;12;Jakarta Selatan;pesanggrahan;ulujami;1;20;40;96.1;121.0
+3.0;12;Jakarta Timur;cakung;rawa terate;5;10;100;93.5;150.0
+3.0;12;Jakarta Timur;cakung;cakung timur;9;20;20;112.6;117.0
+6.0;12;Jakarta Timur;makasar;cipinang melayu;4;10;30;69.9;115.0
+11.0;12;Jakarta Timur;ciracas;rambutan;3;10;50;78.7;211.0
+11.0;12;Jakarta Timur;ciracas;rambutan;5;10;50;57.8;175.0
